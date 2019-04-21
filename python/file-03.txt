@@ -1,4 +1,13 @@
-Price List
-Toilet paper: 2.29
-Mop: 7.50
-Scouring pads: 5
+Lista prezzi reparto gelati
+Affogato al cioccolato, 6.1
+Biscotto ripieni, 7.5
+Coppa del nonno, 5.5
+Coppa panna e cioccolato, 5.2
+Cremino, 1.5
+Cucciolone Bikini, 3.5
+Fior di fragola, 2.5
+Ghiaccioli assortiti, 3.0
+Liuk, 3.5
+Magnum Bomboniera, 3.1
+Sorbetto al limone, 4.8
+Viennetta, 7.1

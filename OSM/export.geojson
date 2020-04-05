@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-04-04T21:15:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/140846626",
+        "addr:city": "Marghera",
+        "addr:housenumber": "24",
+        "addr:postcode": "30175",
+        "addr:street": "Piazza del Mercato",
+        "building": "yes",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "monismile91@msn.com",
+        "facebook": "https://www.facebook.com/pg/fruttaeverduradanieleedaniela",
+        "name": "Frutta e Verdura Daniele e Daniela",
+        "opening_hours": "Mo-Sa 07:00-13:30, 16:00-19:00   Su off",
+        "phone": "349 161 4712",
+        "shop": "greengrocer",
+        "icon": "greengrocer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2245167,
+              45.4737187
+            ],
+            [
+              12.2246329,
+              45.4736953
+            ],
+            [
+              12.2247017,
+              45.4738633
+            ],
+            [
+              12.2245856,
+              45.4738867
+            ],
+            [
+              12.2245167,
+              45.4737187
+            ]
+          ]
+        ]
+      },
+      "id": "way/140846626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1485265090",
+        "addr:city": "Mestre",
+        "addr:housenumber": "348",
+        "addr:postcode": "30174",
+        "addr:street": "Via San Donà",
+        "addr:unit": "C",
+        "amenity": "restaurant",
+        "icon": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@pizzeriadamichele.it",
+        "facebook": "Pizzeria da Michele",
+        "name": "Pizzeria da Michele",
+        "phone": "041612570",
+        "phone2": "0415342820",
+        "website": "http://www.pizzeriadamichele.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2627493,
+          45.5040162
+        ]
+      },
+      "id": "node/1485265090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5762154141",
+        "addr:city": "Marghera",
+        "addr:housenumber": "9L-M",
+        "addr:postcode": "30175",
+        "addr:street": "Via dell'Elettricità",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "amministrazione@gustoclick.com",
+        "facebook": "https://www.facebook.com/gustoclick",
+        "name": "Gustoclick",
+        "opening_hours": "24/7",
+        "phone": "041 243 5005",
+        "website": "http://www.gustoclick.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2349812,
+          45.4759744
+        ]
+      },
+      "id": "node/5762154141"
+    }
+  ]
+}

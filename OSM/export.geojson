@@ -2,56 +2,8 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-04T21:15:02Z",
+  "timestamp": "2020-04-05T13:44:02Z",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/140846626",
-        "addr:city": "Marghera",
-        "addr:housenumber": "24",
-        "addr:postcode": "30175",
-        "addr:street": "Piazza del Mercato",
-        "building": "yes",
-        "delivery:covid19": "yes",
-        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
-        "email": "monismile91@msn.com",
-        "facebook": "https://www.facebook.com/pg/fruttaeverduradanieleedaniela",
-        "name": "Frutta e Verdura Daniele e Daniela",
-        "opening_hours": "Mo-Sa 07:00-13:30, 16:00-19:00   Su off",
-        "phone": "349 161 4712",
-        "shop": "greengrocer",
-        "icon": "greengrocer"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              12.2245167,
-              45.4737187
-            ],
-            [
-              12.2246329,
-              45.4736953
-            ],
-            [
-              12.2247017,
-              45.4738633
-            ],
-            [
-              12.2245856,
-              45.4738867
-            ],
-            [
-              12.2245167,
-              45.4737187
-            ]
-          ]
-        ]
-      },
-      "id": "way/140846626"
-    },
     {
       "type": "Feature",
       "properties": {
@@ -68,8 +20,8 @@
         "email": "info@pizzeriadamichele.it",
         "facebook": "Pizzeria da Michele",
         "name": "Pizzeria da Michele",
-        "phone": "041612570",
-        "phone2": "0415342820",
+        "phone": "041 612 570",
+        "phone2": "041 534 2820",
         "website": "http://www.pizzeriadamichele.it/"
       },
       "geometry": {
@@ -89,8 +41,8 @@
         "addr:housenumber": "9L-M",
         "addr:postcode": "30175",
         "addr:street": "Via dell'Elettricità",
-        "icon": "restaurant",
         "amenity": "restaurant",
+        "icon": "restaurant",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "amministrazione@gustoclick.com",
@@ -108,6 +60,85 @@
         ]
       },
       "id": "node/5762154141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7368681572",
+        "addr:city": "Chirignago",
+        "addr:housenumber": "1",
+        "addr:postcode": "30174",
+        "addr:street": "Via Ghetto",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "fabrizia.scantamburlo@donorionechirignago.it",
+        "facebook": "https://www.facebook.com/azagrdo/",
+        "name": "Azienda Agricola Don Orione",
+        "opening_hours": "Mo Closed Tu 09:00-12:00 We Closed Th 09:00-12:00 Fr Closed Sa 09:00-12:00 Su Closed",
+        "icon": "farm",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1857776,
+          45.4824089
+        ]
+      },
+      "id": "node/7368681572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7368703053",
+        "addr:city": "Marghera",
+        "addr:housenumber": "45",
+        "addr:postcode": "30175",
+        "addr:street": "Via Bottenigo",
+        "amenity": "restaurant",
+        "icon": "restaurant",
+        "delivery:description:it": "\"Attivazione servizio a domicilio di generi di prima necessità per COVID-19\"",
+        "devlivery:covid19": "yes",
+        "name": "Trattoria Panda",
+        "opening_hours": "Mo-Sa 11.45-14, 19.30-22.00",
+        "phone": "041 923 510",
+        "website": "https://trattoria-panda.business.site/?utm_source=gmb&utm_medium=referral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2012635,
+          45.4761696
+        ]
+      },
+      "id": "node/7368703053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7368825923",
+        "addr:city": "Marghera",
+        "addr:housenumber": "24",
+        "addr:postcode": "30175",
+        "addr:street": "Piazza del Mercato",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "monismile91@msn.com",
+        "facebook": "https://www.facebook.com/pg/fruttaeverduradanieleedaniela",
+        "name": "Frutta e Vedura Daniele e Daniela",
+        "opening_hours": "Mo-Sa 07:00-13:30, 16:00-19:00   Su off",
+        "phone": "349 161 4712",
+        "icon": "greengrocer",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2245899,
+          45.4737984
+        ]
+      },
+      "id": "node/7368825923"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-05T13:44:02Z",
+  "timestamp": "2020-04-06T14:42:02Z",
   "features": [
     {
       "type": "Feature",
@@ -20,8 +20,8 @@
         "email": "info@pizzeriadamichele.it",
         "facebook": "Pizzeria da Michele",
         "name": "Pizzeria da Michele",
-        "phone": "041 612 570",
-        "phone2": "041 534 2820",
+        "phone": "+39 041612570",
+        "phone2": "0415342820",
         "website": "http://www.pizzeriadamichele.it/"
       },
       "geometry": {
@@ -36,20 +36,107 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4288446626",
+        "addr:city": "Favaro Veneto",
+        "addr:housenumber": "141a",
+        "addr:postcode": "30173",
+        "addr:street": "Via Altinia",
+        "amenity": "restaurant",
+        "icon": "restaurant",
+        "contact:email": "info@alcapolineavenezia.it , postmaster@alcapolineavenezia.it",
+        "cuisine": "pizza;carne;pesce",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/pages/Al-Capolinea/178120349542155",
+        "name": "Al Capolinea",
+        "opening_hours": "Mo-We 9:30-14.30/17:30-23.30 , Fr-Su 9:30-14.30/17:30-23.30",
+        "phone": "+39 041 634 829 , +39 392 635 1421",
+        "website": "http://www.alcapolineavenezia.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2830701,
+          45.5148217
+        ]
+      },
+      "id": "node/4288446626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754892311",
+        "addr:city": "Mestre",
+        "addr:housenumber": "46b",
+        "addr:postcode": "30173",
+        "addr:street": "Via Bissuola",
+        "contact:mobile": "+39 339 4658008",
+        "contact:phone": "+39 041 5343001",
+        "delivery": "yes",
+        "delivery:covid19": "yes",
+        "description": "Negozio di frutta e verdura",
+        "name": "Frutta e Verdura Sergio e Ketty",
+        "opening_hours": "Mo-Tu 07:30-13:00,16:00-19:30; We 07:30-13:00; Th-Sa 07:30-13:00,16:00-19:30; PH off",
+        "payment:bancomat": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "icon": "greengrocer",
+        "shop": "greengrocer",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2546067,
+          45.4943983
+        ]
+      },
+      "id": "node/4754892311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4853267978",
+        "addr:housenumber": "46h",
+        "addr:postcode": "30173",
+        "addr:street": "Via Bissuola",
+        "contact:facebook": "https://m.facebook.com/PasticceriaNobileMestre/",
+        "delivery:covid19": "yes",
+        "name": "Pasticceria Nobile",
+        "opening_hours": "Mo-Sa 8:30-13:00, 16:00-20:00",
+        "opening_hours:covid19": "open=Mo-Sa 9:00-13:00",
+        "payment:cash": "yes",
+        "phone": "+39 041 5341911",
+        "icon": "pastry",
+        "shop": "pastry",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2549805,
+          45.494276
+        ]
+      },
+      "id": "node/4853267978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5762154141",
         "addr:city": "Marghera",
         "addr:housenumber": "9L-M",
         "addr:postcode": "30175",
         "addr:street": "Via dell'Elettricità",
-        "amenity": "restaurant",
         "icon": "restaurant",
+        "amenity": "restaurant",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "amministrazione@gustoclick.com",
         "facebook": "https://www.facebook.com/gustoclick",
         "name": "Gustoclick",
         "opening_hours": "24/7",
-        "phone": "041 243 5005",
+        "phone": "+39 041 243 5005",
         "website": "http://www.gustoclick.com"
       },
       "geometry": {
@@ -95,13 +182,13 @@
         "addr:housenumber": "45",
         "addr:postcode": "30175",
         "addr:street": "Via Bottenigo",
-        "amenity": "restaurant",
         "icon": "restaurant",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
         "delivery:description:it": "\"Attivazione servizio a domicilio di generi di prima necessità per COVID-19\"",
-        "devlivery:covid19": "yes",
         "name": "Trattoria Panda",
         "opening_hours": "Mo-Sa 11.45-14, 19.30-22.00",
-        "phone": "041 923 510",
+        "phone": "39+041 923510",
         "website": "https://trattoria-panda.business.site/?utm_source=gmb&utm_medium=referral"
       },
       "geometry": {
@@ -126,7 +213,7 @@
         "email": "monismile91@msn.com",
         "facebook": "https://www.facebook.com/pg/fruttaeverduradanieleedaniela",
         "name": "Frutta e Vedura Daniele e Daniela",
-        "opening_hours": "Mo-Sa 07:00-13:30, 16:00-19:00   Su off",
+        "opening_hours": "Mo-Sa 07:00-13:30, 16:00-19:00 Su off",
         "phone": "349 161 4712",
         "icon": "greengrocer",
         "shop": "greengrocer"
@@ -139,6 +226,63 @@
         ]
       },
       "id": "node/7368825923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7369879830",
+        "addr:city": "Marghera",
+        "addr:housenumber": "13",
+        "addr:postcode": "30175",
+        "addr:street": "Piazza del Mercato",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "building": "yes",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "\"Attivazione servizio a domicilio di generi di prima necessità per COVID-19\"",
+        "email": "stefanoaldreghetti@gmail.com",
+        "facebook": "https://it-it.facebook.com/barkalaltaqualita/",
+        "name": "Barkallà S.r.l.s",
+        "opening_hours": "9:00-22:30",
+        "phone": "320 978 9423",
+        "website": "https://it-it.facebook.com/barkalaltaqualita/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2249623,
+          45.4746522
+        ]
+      },
+      "id": "node/7369879830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7372304173",
+        "addr:city": "Favaro Veneto",
+        "addr:housenumber": "139",
+        "addr:postcode": "30173",
+        "addr:street": "Via Altinia",
+        "addr:unit": "u",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "cuisine": "pizza;italian",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "mauri2612@libero.it",
+        "name": "Luna Piena",
+        "opening_hours": "Tu-Th 17:00-21:30 We-Sa17:00-22:00 Mo Closed",
+        "phone": "0415417843/3393187115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2829009,
+          45.5142329
+        ]
+      },
+      "id": "node/7372304173"
     }
   ]
 }

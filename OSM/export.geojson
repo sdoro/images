@@ -2,8 +2,57 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-06T14:42:02Z",
+  "timestamp": "2020-04-09T18:22:02Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/789327371",
+        "addr:city": "Mestre",
+        "addr:housenumber": "3",
+        "addr:postcode": "30174",
+        "addr:street": "Via del Tinto",
+        "building": "greenhouse",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "florclaudiaecristina@gmail.com",
+        "facebook": "https://www.facebook.com/Vivaio-Flor-Claudia-e-Cristina-795391617143746/",
+        "name": "Azienda Agricola FLor CLaudia E Cristina",
+        "opening_hours": "Mo off; Tu-Sa 08.30-12.30 , 15:30-19:00; Su 09:00-12.30",
+        "phone": "041 980470",
+        "icon": "garden_centre",
+        "shop": "garden_centre",
+        "website": "http://www.florclaudiaecristina.it/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2444604,
+              45.5142124
+            ],
+            [
+              12.2444917,
+              45.5140961
+            ],
+            [
+              12.2445583,
+              45.5140999
+            ],
+            [
+              12.2445257,
+              45.5142228
+            ],
+            [
+              12.2444604,
+              45.5142124
+            ]
+          ]
+        ]
+      },
+      "id": "way/789327371"
+    },
     {
       "type": "Feature",
       "properties": {
@@ -13,8 +62,8 @@
         "addr:postcode": "30174",
         "addr:street": "Via San Donà",
         "addr:unit": "C",
-        "amenity": "restaurant",
         "icon": "restaurant",
+        "amenity": "restaurant",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "info@pizzeriadamichele.it",
@@ -36,13 +85,213 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1522494266",
+        "addr:city": "Mestre",
+        "addr:housenumber": "1",
+        "addr:postcode": "30174",
+        "addr:street": "Piazzetta Cap. Edmondo Matter",
+        "icon": "ice_cream",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/gelateriaAlDuca",
+        "name": "Gelateria Artigianale Al Duca",
+        "phone": "3703151238",
+        "website": "www.gelateria-alduca.it/Test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2424065,
+          45.4945823
+        ]
+      },
+      "id": "node/1522494266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2190657993",
+        "addr:city": "Venezia",
+        "addr:housenumber": "214",
+        "addr:postcode": "30125",
+        "addr:street": "Campo Cesare Battisti/Bella Viena, San Polo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@aliani-casadelparmigiano.it",
+        "facebook": "Casa del Parmigiano Venezia",
+        "name": "Aliani Casa del Parmigiano",
+        "opening_hours": "Lunedì - Mercoledì 8 - 13.30; Giovedì - Sabato 8-19.30; Domenica chiuso",
+        "phone": "041 520 6525",
+        "icon": "cheese",
+        "shop": "convenience, wine, cheese",
+        "website": "www.aliani-casadelparmigiano.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3349922,
+          45.4390052
+        ]
+      },
+      "id": "node/2190657993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2689605789",
+        "addr:city": "Mestre Venezia",
+        "addr:housenumber": "18",
+        "addr:postcode": "30172",
+        "addr:street": "Viale Ancona",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "cuisine": "sandwich;burger",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "aeochedocks@gmail.com",
+        "facebook": "Aeochedocks",
+        "name": "Ae Oche Docks",
+        "opening_hours": "Mo-Su 18:30-21:30",
+        "phone": "+390415321892 +393404529370",
+        "website": "http://www.aeochedocks.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2505739,
+          45.4836306
+        ]
+      },
+      "id": "node/2689605789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3903484077",
+        "addr:city": "Mestre",
+        "addr:housenumber": "120",
+        "addr:postcode": "30172",
+        "addr:street": "Via Mestrina",
+        "contact:facebook": "https://www.facebook.com/autofficinamestre/",
+        "contact:phone": "3286335531",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "autofficinavettori1977@gmail.com",
+        "name": "Autofficina Meccatronica Vettori",
+        "opening_hours": "Mo-Sa 08:00-12:30 14:30-18:00",
+        "phone": "041961811",
+        "website": "http://www.autofficinamestre.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2478688,
+          45.4897277
+        ]
+      },
+      "id": "node/3903484077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4238318505",
+        "addr:city": "Venezia",
+        "addr:country": "IT",
+        "addr:housenumber": "17",
+        "addr:place": "Mestre",
+        "addr:postcode": "30172",
+        "addr:street": "Via Ca' Savorgnan",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@elfritoinlodoli.it",
+        "facebook": "https://it-it.facebook.com/pages/category/Restaurant/El-Fritoin-165754153552439/",
+        "name": "El Fritoin",
+        "opening_hours": "Mo closed; Tu-Th 9:30-15:00 18:00-22:00; Fr-Sa 9:30-23:00; Su 9:30-15:00",
+        "operator": "Samuele Lodoli",
+        "phone": "3939491076",
+        "phone_1": "0418223357",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2422526,
+          45.4910036
+        ]
+      },
+      "id": "node/4238318505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4273153869",
+        "addr:city": "Favaro Veneto",
+        "addr:housenumber": "21",
+        "addr:postcode": "30173",
+        "addr:street": "Via Passo San Boldo",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/pages/Caffe-Concerto-Di-Penello-Luigi/117686588290310",
+        "name": "Caffè Concerto",
+        "opening_hours": "10.00-00.00",
+        "phone": "041 634100 / 328 6612066",
+        "website": "https://www.caffeconcerto.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2785827,
+          45.5046605
+        ]
+      },
+      "id": "node/4273153869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4282330652",
+        "addr:city": "Favaro Veneto",
+        "addr:housenumber": "36",
+        "addr:postcode": "30173",
+        "addr:street": "Piazza Angelo Pastrello",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "luin67@gmail.com",
+        "facebook": "https://m.facebook.com/Pasticceria-invaso-Luca-224397337718256/",
+        "name": "Pasticceria Gran Doge",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "operator": "Invaso Luca",
+        "phone": "041 630232",
+        "icon": "pastry",
+        "shop": "pastry",
+        "website": "https://lucas6898.wixsite.com/website"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2810882,
+          45.5045261
+        ]
+      },
+      "id": "node/4282330652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4288446626",
         "addr:city": "Favaro Veneto",
         "addr:housenumber": "141a",
         "addr:postcode": "30173",
         "addr:street": "Via Altinia",
-        "amenity": "restaurant",
         "icon": "restaurant",
+        "amenity": "restaurant",
         "contact:email": "info@alcapolineavenezia.it , postmaster@alcapolineavenezia.it",
         "cuisine": "pizza;carne;pesce",
         "delivery:covid19": "yes",
@@ -50,7 +299,7 @@
         "facebook": "https://www.facebook.com/pages/Al-Capolinea/178120349542155",
         "name": "Al Capolinea",
         "opening_hours": "Mo-We 9:30-14.30/17:30-23.30 , Fr-Su 9:30-14.30/17:30-23.30",
-        "phone": "+39 041 634 829 , +39 392 635 1421",
+        "phone": "041 634 829 , 392 635 1421",
         "website": "http://www.alcapolineavenezia.it/"
       },
       "geometry": {
@@ -65,51 +314,271 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4754892311",
-        "addr:city": "Mestre",
-        "addr:housenumber": "46b",
+        "@id": "node/4294499227",
+        "addr:city": "Favaro Veneto",
+        "addr:housenumber": "62",
         "addr:postcode": "30173",
-        "addr:street": "Via Bissuola",
-        "contact:mobile": "+39 339 4658008",
-        "contact:phone": "+39 041 5343001",
-        "delivery": "yes",
+        "addr:street": "Via Triestina",
+        "air_conditioning": "yes",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "cuisine": "italian;pizza",
         "delivery:covid19": "yes",
-        "description": "Negozio di frutta e verdura",
-        "name": "Frutta e Verdura Sergio e Ketty",
-        "opening_hours": "Mo-Tu 07:30-13:00,16:00-19:30; We 07:30-13:00; Th-Sa 07:30-13:00,16:00-19:30; PH off",
-        "payment:bancomat": "yes",
-        "payment:cash": "yes",
-        "payment:coins": "yes",
-        "icon": "greengrocer",
-        "shop": "greengrocer",
-        "wheelchair": "yes"
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@trattoriadapiero.it",
+        "facebook": "https://www.facebook.com/trattoriapizzeriadapiero/",
+        "internet_access": "wlan",
+        "name": "Trattoria Pizzeria Da Piero",
+        "opening_hours": "We-Fr 12:00-14:30 18:00-00:00 Sa 18:00-00:00 Su-Mo 12:00-14:30 18:00-00:00 Tu 12:00-14:30",
+        "phone": "+39 041 630777",
+        "takeaway": "yes",
+        "website": "https://trattoriadapiero.it/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.2546067,
-          45.4943983
+          12.2884317,
+          45.505137
         ]
       },
-      "id": "node/4754892311"
+      "id": "node/4294499227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4720362189",
+        "addr:city": "Mestre",
+        "addr:housenumber": "66c",
+        "addr:postcode": "30173",
+        "addr:street": "Viale San Marco",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "fioreriasanmarco@libero.it",
+        "facebook": "https://www.facebook.com/fioreriasanmarcomestre/",
+        "name": "Fioreria San Marco",
+        "opening_hours": "08:30-12:30 15:30-19:30   Su and We 15:30-19:30",
+        "phone": "041974270 - 0415059370",
+        "icon": "florist",
+        "shop": "florist",
+        "website": "http://www.fioreriasanmarco.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2492566,
+          45.4915504
+        ]
+      },
+      "id": "node/4720362189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4728097107",
+        "addr:housenumber": "83c",
+        "addr:postcode": "30173",
+        "addr:street": "Via Bissuola",
+        "icon": "fast_food",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "drive_through": "no",
+        "email": "primavoltapizza@gmail.com",
+        "facebook": "https://it-it.facebook.com/pages/category/Caterer/Prima-Volta-123096658226867/",
+        "name": "Prima Volta",
+        "opening_hours": "Tu-Sa 11:30-14:30, 18:00-21:30  Mo off,  Su off fino a pranzo",
+        "opening_hours:covid19": "Tu-Sa 11:30-14:30, 18:00-21:30  Mo off,  Su off fino a pranzo",
+        "phone": "+39 041 5346166",
+        "takeaway": "yes",
+        "website": "http://www.pizzeriaprimavolta.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2555035,
+          45.4942671
+        ]
+      },
+      "id": "node/4728097107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4728097112",
+        "addr:housenumber": "94a",
+        "addr:postcode": "30173",
+        "addr:street": "Via Bissuola",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "mauro@cantinadaibari.it",
+        "name": "Cantina dai Bari",
+        "phone": "+39 041 5342132",
+        "icon": "wine",
+        "shop": "wine",
+        "website": "http://www.cantinadaibari.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2607861,
+          45.4938385
+        ]
+      },
+      "id": "node/4728097112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754892312",
+        "addr:housenumber": "81f",
+        "addr:postcode": "30173",
+        "addr:street": "Via Bissuola",
+        "icon": "ice_cream",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "algustogiusto@hotmail.com",
+        "facebook": "https://www.facebook.com/johnnygelateriaartigianale/",
+        "name": "Al Gusto Giusto",
+        "opening_hours": "Mo-Su 15:00-21:00",
+        "phone": "+39 327 434 8472",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2551421,
+          45.4944032
+        ]
+      },
+      "id": "node/4754892312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4792862621",
+        "addr:housenumber": "38a",
+        "addr:postcode": "30171",
+        "addr:street": "Via Miranese",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "pasticceria.miranese@gmail.com",
+        "name": "Pasticceria Miranese",
+        "opening_hours": "07:00-13:00,15:30-20:00",
+        "payment": "online",
+        "phone": "3281923032",
+        "icon": "pastry",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.23175,
+          45.4924714
+        ]
+      },
+      "id": "node/4792862621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4810957385",
+        "addr:city": "Carpenedo",
+        "addr:housenumber": "155",
+        "addr:postcode": "30174",
+        "addr:street": "Via Ca' Rossa",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Macelleria F. & C. di Fabio e Cristina",
+        "icon": "butcher",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2551056,
+          45.5037051
+        ]
+      },
+      "id": "node/4810957385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4819973319",
+        "addr:city": "Venezia",
+        "addr:housenumber": "5065",
+        "addr:neighbourhood": "Castello",
+        "addr:place": "Castello",
+        "addr:postcode": "30122",
+        "addr:street": "Fondamenta San Giorgio degli Schiavoni",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "castello.ve@deltasviluppo.com",
+        "facebook": "https://it-it.facebook.com/pg/SimplyVeneziaCastello/about/?ref=page_internal",
+        "name": "Punto Sma City",
+        "opening_hours": "Mo-Sa 08:30-20:00, Su off",
+        "opening_hours:covid19": "Mo-Sa 08:30-20:00, Su off",
+        "operator": "New Venice Com Srl.",
+        "phone": "+39 041 2960560",
+        "ref:vatin": "IT03469140275",
+        "icon": "supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3457588,
+          45.4367584
+        ]
+      },
+      "id": "node/4819973319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4826653441",
+        "addr:housenumber": "108",
+        "addr:postcode": "30173",
+        "addr:street": "Via Bissuola",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/PasticceriaReginaMestre/",
+        "name": "Pasticceria Regina",
+        "opening_hours": "Mo-Fr 06:00-20:00 Sa 06–13, 15:30–20 Su 06–13, 16–20",
+        "phone": "+39 041 536 9458",
+        "icon": "pastry",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2633634,
+          45.4943173
+        ]
+      },
+      "id": "node/4826653441"
     },
     {
       "type": "Feature",
       "properties": {
         "@id": "node/4853267978",
+        "addr:city": "Mestre",
         "addr:housenumber": "46h",
-        "addr:postcode": "30173",
+        "addr:postcode": "30175",
         "addr:street": "Via Bissuola",
         "contact:facebook": "https://m.facebook.com/PasticceriaNobileMestre/",
         "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "name": "Pasticceria Nobile",
         "opening_hours": "Mo-Sa 8:30-13:00, 16:00-20:00",
         "opening_hours:covid19": "open=Mo-Sa 9:00-13:00",
-        "payment:cash": "yes",
         "phone": "+39 041 5341911",
         "icon": "pastry",
-        "shop": "pastry",
-        "wheelchair": "yes"
+        "shop": "pastry"
       },
       "geometry": {
         "type": "Point",
@@ -119,6 +588,85 @@
         ]
       },
       "id": "node/4853267978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4867715029",
+        "addr:city": "Mestre",
+        "addr:housenumber": "25",
+        "addr:postcode": "30173",
+        "addr:street": "Via Antonio Fradeletto",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "emergency_telephone_code": "3342482650",
+        "name": "RAEM srl",
+        "icon": "electrical",
+        "shop": "electrical",
+        "telephone": "0415345378"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.247877,
+          45.4980554
+        ]
+      },
+      "id": "node/4867715029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4894969543",
+        "addr:housenumber": "124",
+        "addr:postcode": "30174",
+        "addr:street": "Viale San Marco",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "pizzaedelizie18@gmail.com",
+        "facebook": "https://it-it.facebook.com/pages/category/Pizza-Place/Pizza-e-delizie-353681998515993/",
+        "name": "Pizza e Delizie",
+        "opening_hours": "Mo-Su 10.00-14.30  17.00-22.30",
+        "phone": "0415312867",
+        "phone_1": "3515339384",
+        "website": "http://www.pizzaedelizie.it/it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2563467,
+          45.4855896
+        ]
+      },
+      "id": "node/4894969543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5224438169",
+        "addr:city": "Carpenedo",
+        "addr:housenumber": "139",
+        "addr:postcode": "30174",
+        "addr:street": "Via San Donà",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "silvia2federica@gmail.com",
+        "name": "La Frutteria",
+        "payment:cash": "yes",
+        "payment:pos": "yes",
+        "phone": "3396385568",
+        "shop": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2561282,
+          45.5037504
+        ]
+      },
+      "id": "node/5224438169"
     },
     {
       "type": "Feature",
@@ -136,7 +684,7 @@
         "facebook": "https://www.facebook.com/gustoclick",
         "name": "Gustoclick",
         "opening_hours": "24/7",
-        "phone": "+39 041 243 5005",
+        "phone": "041 243 5005",
         "website": "http://www.gustoclick.com"
       },
       "geometry": {
@@ -147,6 +695,122 @@
         ]
       },
       "id": "node/5762154141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6568755452",
+        "addr:city": "Mestre",
+        "addr:housenumber": "91",
+        "addr:postcode": "30171",
+        "addr:street": "Via Giuseppe Verdi",
+        "addr:unit": "a",
+        "contact:email": "info@pianetacomputer.it",
+        "contact:phone": "041976307",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@pianetacomputer.it",
+        "name": "Pianeta Computer",
+        "opening_hours": "Tu-Su 09:00-12:30; Mo-Fr 15:30-19:30",
+        "icon": "computer",
+        "shop": "computer",
+        "website": "https://www.pianetacomputer.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2354981,
+          45.4927899
+        ]
+      },
+      "id": "node/6568755452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6579530112",
+        "addr:city": "Mestre",
+        "addr:housenumber": "110",
+        "addr:postcode": "30174",
+        "addr:street": "Via Torre Belfredo",
+        "icon": "pub",
+        "amenity": "pub",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/diningroommestre",
+        "name": "Dining Room",
+        "opening_hours": "Mo-Su 18:00-02:00",
+        "phone": "+39 041 504 1853",
+        "website": "http://www.diningroomvenezia.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2409147,
+          45.4973251
+        ]
+      },
+      "id": "node/6579530112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7223029955",
+        "addr:city": "Spinea",
+        "addr:housenumber": "1",
+        "addr:postcode": "30038",
+        "addr:street": "Via Vittorio Alfieri",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/Apollolapizza/",
+        "name": "Apollo la Pizza",
+        "opening_hours": "Mo-Su 11-14, 18-22:30",
+        "phone": "+39 041 476 2269",
+        "website": "https://www.facebook.com/Apollolapizza/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1697742,
+          45.4897053
+        ]
+      },
+      "id": "node/7223029955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7228479032",
+        "addr:city": "Favaro Veneto",
+        "addr:housenumber": "396",
+        "addr:postcode": "30173",
+        "addr:street": "Via San Donà",
+        "air_conditioning": "yes",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "arteredi@libero.it",
+        "name": "Cartoleria Da Dario",
+        "opening_hours": "Mo-Sa 08:30-12:30 Mo-Fr 15.30-19.30 PH off Su off",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+39 041 631491",
+        "icon": "stationery",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2810187,
+          45.5040718
+        ]
+      },
+      "id": "node/7228479032"
     },
     {
       "type": "Feature",
@@ -162,6 +826,7 @@
         "facebook": "https://www.facebook.com/azagrdo/",
         "name": "Azienda Agricola Don Orione",
         "opening_hours": "Mo Closed Tu 09:00-12:00 We Closed Th 09:00-12:00 Fr Closed Sa 09:00-12:00 Su Closed",
+        "phone": "041 913036",
         "icon": "farm",
         "shop": "farm"
       },
@@ -185,10 +850,10 @@
         "icon": "restaurant",
         "amenity": "restaurant",
         "delivery:covid19": "yes",
-        "delivery:description:it": "\"Attivazione servizio a domicilio di generi di prima necessità per COVID-19\"",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "name": "Trattoria Panda",
         "opening_hours": "Mo-Sa 11.45-14, 19.30-22.00",
-        "phone": "39+041 923510",
+        "phone": "041 923510",
         "website": "https://trattoria-panda.business.site/?utm_source=gmb&utm_medium=referral"
       },
       "geometry": {
@@ -239,7 +904,7 @@
         "amenity": "restaurant",
         "building": "yes",
         "delivery:covid19": "yes",
-        "delivery:description:it": "\"Attivazione servizio a domicilio di generi di prima necessità per COVID-19\"",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "stefanoaldreghetti@gmail.com",
         "facebook": "https://it-it.facebook.com/barkalaltaqualita/",
         "name": "Barkallà S.r.l.s",
@@ -283,6 +948,1745 @@
         ]
       },
       "id": "node/7372304173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7372834764",
+        "addr:city": "Zelarino",
+        "addr:housenumber": "101",
+        "addr:postcode": "30174",
+        "addr:street": "Via Castellana",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "delivery:covid19": "covid19=yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Ristorando Snc Gastronomia",
+        "phone": "041 546 1922",
+        "website": "http://cavoliamerenda.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2106342,
+          45.5128406
+        ]
+      },
+      "id": "node/7372834764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7372888778",
+        "addr:city": "Zelarino",
+        "addr:housenumber": "97",
+        "addr:postcode": "30174",
+        "addr:street": "Via Castellana",
+        "addr:unit": "f",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@improntagourmet.it",
+        "facebook": "\"L'Impronta - Pizza & Cucina\"",
+        "name": "L'impronta Gourmet",
+        "opening_hours": "Mo-Tu 18:00-22:00 We-Su 18:00-23:00",
+        "phone": "0418479975",
+        "website": "https://improntagourmet.xmenu.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2129419,
+          45.5113602
+        ]
+      },
+      "id": "node/7372888778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7372893638",
+        "addr:city": "Venezia VE",
+        "addr:housenumber": "4",
+        "addr:postcode": "30173",
+        "addr:street": "Via Forte Cosenza",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "ciboeventi@gmail.com",
+        "name": "Cibò",
+        "opening_hours": "Mo-Su 10:00-15:00, 18:00-23:00",
+        "phone": "3404951986",
+        "phone_1": "3398876027",
+        "website": "http://ciboeventi.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.279546,
+          45.524364
+        ]
+      },
+      "id": "node/7372893638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7375432792",
+        "addr:city": "Zelarino",
+        "addr:housenumber": "64/C",
+        "addr:postcode": "30174",
+        "addr:street": "Via Castellana",
+        "air_conditioning": "yes",
+        "icon": "ice_cream",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/LaMelaVerdeZelarino",
+        "name": "Gelateria Mela Verde",
+        "opening_hours": "Tu-Fr 14:30-21:30, Sa-Su 11-13, 14.30-21.30",
+        "payment:online": "yes",
+        "phone": "347181456",
+        "website": "http://www.gelaterialamelaverde.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2138831,
+          45.5112385
+        ]
+      },
+      "id": "node/7375432792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7375456563",
+        "addr:city": "Zelarino",
+        "addr:housenumber": "64/F",
+        "addr:postcode": "30174",
+        "addr:street": "Via Castellana",
+        "air_conditioning": "yes",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/aeounicomm",
+        "name": "A &o",
+        "opening_hours": "lu: 8:30 - 12:30 / 15:00 - 19:00 ma: 8:30 - 12:30 / 15:00 - 19:00 me: 8:30 - 12:30 gi: 8:30 - 12:30 / 15:00 - 19:00 ve: 8:30 - 12:30 / 15:00 - 19:00 sa: 8:30 - 12:30 / 15:00 - 19:00",
+        "payment:bancomat": "yes",
+        "payment:cash": "yes",
+        "phone": "041907532",
+        "icon": "supermarket",
+        "shop": "supermarket",
+        "website": "https://www.aeo.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.213631,
+          45.511372
+        ]
+      },
+      "id": "node/7375456563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7375618313",
+        "addr:city": "Marghera",
+        "addr:housenumber": "3",
+        "addr:postcode": "30175",
+        "addr:street": "Via Bottenigo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "L’angolo Giallo",
+        "phone": "3335461110",
+        "icon": "supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2025497,
+          45.4783749
+        ]
+      },
+      "id": "node/7375618313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7375913576",
+        "addr:city": "Favaro Veneto",
+        "addr:housenumber": "348",
+        "addr:postcode": "30173",
+        "addr:street": "Via San Donà",
+        "addr:unit": "b",
+        "icon": "ice_cream",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/anticagelateria.venexiana",
+        "name": "Antica Gelateria Venexiana",
+        "opening_hours": "We-Mo 15:30-23:00",
+        "phone": "335 549 6971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2763554,
+          45.5026353
+        ]
+      },
+      "id": "node/7375913576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7375931922",
+        "addr:city": "Mestre",
+        "addr:housenumber": "53",
+        "addr:postcode": "30173",
+        "addr:street": "Corso del Popolo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Macelleria Carpitella",
+        "icon": "butcher",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2443382,
+          45.4897329
+        ]
+      },
+      "id": "node/7375931922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7375957896",
+        "addr:housenumber": "65",
+        "addr:street": "Piazza Erminio Ferretto",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "anticadrogheriacaberlotto@gmail.com",
+        "facebook": "Anticadrogheriacaberlotto",
+        "name": "Antica Drogheria Caberlotto",
+        "opening_hours": "Mo-Sa 08:30-12:30, 15:30-18:00; Su off",
+        "phone": "041961532/ 3477183546",
+        "icon": "confectionery",
+        "shop": "confectionery",
+        "website": "https://www.caberlotto.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.24106,
+          45.4934361
+        ]
+      },
+      "id": "node/7375957896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7375978793",
+        "addr:city": "Mestre",
+        "addr:housenumber": "21",
+        "addr:postcode": "30172",
+        "addr:street": "Via Aleardo Aleardi",
+        "craft": "winery",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "lacantinetta21@gmail.com",
+        "facebook": "https://it-it.facebook.com/lacantinettawineboutique",
+        "name": "La Cantinetta",
+        "opening_hours": "mercoledì\t08:45–12:45 giovedì\t08:45–12:45, 16–19:30 venerdì\t08:45–12:45, 16–19:30 sabato\t08:45–12:45, 16–19:30 domenica (Pasqua) Chiuso lunedì (Lunedì dell'Angelo) 08:45–12:45, 16–19:30 L'orario può variare martedì\t08:45–12:45, 16–19:30",
+        "phone": "041 981714",
+        "icon": "yes",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2414812,
+          45.488554
+        ]
+      },
+      "id": "node/7375978793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7375992327",
+        "addr:city": "Mestre Carpenedo",
+        "addr:housenumber": "23",
+        "addr:postcode": "30173",
+        "addr:street": "Via Casona",
+        "icon": "ice_cream",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "gelateriaalparcomestre@gmail.com",
+        "facebook": "https://www.facebook.com/gelateriamestre/",
+        "name": "Gelateria Al Parco",
+        "opening_hours": "Mo-Su 17:00-20:00 solo consegna a domicilio",
+        "phone": "+39 349 781 2505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2650029,
+          45.4970574
+        ]
+      },
+      "id": "node/7375992327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7375999037",
+        "addr:city": "Mestre",
+        "addr:postcode": "30100",
+        "addr:street": "Via Caneve",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19\"",
+        "name": "Pescheria Santina S.n.c. Di Tognon Antonella & C",
+        "phone": "041 988826",
+        "icon": "seafood",
+        "shop": "seafood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2459031,
+          45.4954063
+        ]
+      },
+      "id": "node/7375999037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7376009513",
+        "addr:city": "Mestre Carpenedo",
+        "addr:housenumber": "61/b",
+        "addr:postcode": "30173",
+        "addr:street": "Viale Giuseppe Garibaldi",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Pam Local",
+        "opening_hours": "Mo-Sa 08:30-20:00 , Su off",
+        "operator": "Pam",
+        "phone": "0415349291",
+        "icon": "convenience",
+        "shop": "convenience",
+        "website": "https://www.pampanorama.it/punti-vendita/mestre-local-garibaldi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2464257,
+          45.499644
+        ]
+      },
+      "id": "node/7376009513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7376054901",
+        "addr:city": "Mestre",
+        "addr:housenumber": "55",
+        "addr:postcode": "30174",
+        "addr:street": "Piazza Erminio Ferretto",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Bistrot 55",
+        "opening_hours": "Dal Lunedì al Venerdì 12.00 – 15.00 18.30 – 00.00  Sabato e Domenica 18.30 – 00.00",
+        "phone": "392 916 9903",
+        "website": "bistrot55.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2418799,
+          45.4935902
+        ]
+      },
+      "id": "node/7376054901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7376202996",
+        "addr:city": "Zelarino",
+        "addr:housenumber": "66",
+        "addr:postcode": "30174",
+        "addr:street": "Via Castellana",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Ortofrutta Simion Pierina",
+        "opening_hours": "08:30-19:30",
+        "phone": "041 680498",
+        "icon": "greengrocer",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2128105,
+          45.5119501
+        ]
+      },
+      "id": "node/7376202996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7376220470",
+        "addr:city": "Favaro Veneto",
+        "addr:housenumber": "122/A",
+        "addr:postcode": "30173",
+        "addr:street": "Via Altinia",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "borilediego@gmail.com",
+        "name": "Daniela e Diego Alimentari e Gastronomia",
+        "phone": "0415010424",
+        "icon": "convenience",
+        "shop": "convenience",
+        "telephone": "3333604959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2831204,
+          45.5114112
+        ]
+      },
+      "id": "node/7376220470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7376641513",
+        "addr:city": "Mestre",
+        "addr:housenumber": "34",
+        "addr:postcode": "30173",
+        "addr:street": "Andrea Costa",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "pasticceriaraia@gmail.com",
+        "name": "Pasticceria Raia di Salvatore Raia",
+        "opening_hours": "Mo-Su 07.00-19.30; Su 7.00-13.00",
+        "phone": "041988927",
+        "icon": "pastry",
+        "shop": "pastry",
+        "website": "https://m.facebook.com/PasticceriaRaia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2467614,
+          45.4885404
+        ]
+      },
+      "id": "node/7376641513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7378970968",
+        "addr:city": "Mestre",
+        "addr:housenumber": "96",
+        "addr:street": "Viale San Marco",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Zoo Center",
+        "opening_hours": "Tu-Sa 9.00-12.30, 16.00-19.30",
+        "phone": "+39 041 977987",
+        "icon": "pet",
+        "shop": "pet",
+        "website": "www.zoocentermestre.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2517147,
+          45.4896908
+        ]
+      },
+      "id": "node/7378970968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7379017877",
+        "addr:city": "Mestre",
+        "addr:housenumber": "85",
+        "addr:street": "Via Torre Belfredo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Beethoven & Company",
+        "opening_hours": "Tu-Sa 9.00-12.30, 15.30-19.30",
+        "phone": "+39 041 961616",
+        "icon": "pet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2385671,
+          45.4976397
+        ]
+      },
+      "id": "node/7379017877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7379100106",
+        "addr:city": "Marghera",
+        "addr:housenumber": "25",
+        "addr:postcode": "30176",
+        "addr:street": "Via Don Gino Picchioluto",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "cuisine": "pizza;italian",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Ristorante/Pizzeria Ca' Sabbioni",
+        "opening_hours": "merc.-lun. orario continuato 10.00-23.00         martedì chiuso",
+        "phone": "041 925374",
+        "website": "facebook : https://it-it.facebook.com/Pizzeria-Trattoria-C%C3%A0-Sabbioni-1652657128100688/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1862555,
+          45.4559539
+        ]
+      },
+      "id": "node/7379100106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7379449384",
+        "addr:city": "Mestre",
+        "addr:housenumber": "42/a",
+        "addr:postcode": "30174",
+        "addr:street": "Via Daniele Manin",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "NaturHouse Carpenedo",
+        "operator": "NaturHouse",
+        "phone": "041 972819",
+        "icon": "health_food",
+        "shop": "health_food",
+        "website": "https://www.naturhouse.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2413429,
+          45.4954967
+        ]
+      },
+      "id": "node/7379449384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7379483945",
+        "addr:city": "Mestre",
+        "addr:housenumber": "36",
+        "addr:postcode": "30172",
+        "addr:street": "Corso del Popolo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "La Rosa Rossa",
+        "opening_hours": "09–12 15:30–18",
+        "phone": "041 958611",
+        "icon": "florist",
+        "shop": "florist",
+        "website": "https://www.fiorerialarosarossa.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2438404,
+          45.4896005
+        ]
+      },
+      "id": "node/7379483945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7379528629",
+        "addr:city": "Mestre",
+        "addr:housenumber": "11",
+        "addr:postcode": "30174",
+        "addr:street": "Via San Donà",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "pasticceria.petteno@gmail.com",
+        "facebook": "https://www.facebook.com/Pasticceria-Cioccolateria-Petten%C3%B2-105628289893/",
+        "name": "Pasticceria Cioccolateria Pettenò",
+        "opening_hours": "Mo off; Tue-Fri 07-20 Sa 07-13; 15.30-20.00  Su 07-13; 16-19.30",
+        "phone": "+39 041 534 0673",
+        "icon": "pastry",
+        "shop": "pastry",
+        "website": "https://pasticceria-petteno.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2523488,
+          45.504788
+        ]
+      },
+      "id": "node/7379528629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7379922953",
+        "addr:city": "Chirignago",
+        "addr:housenumber": "223",
+        "addr:postcode": "30174",
+        "addr:street": "Via Trieste",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "lunardigiampietro@gmail.com",
+        "facebook": "https://www.facebook.com/La-Cantina-Del-Buongusto-592605424433096/",
+        "name": "La Cantina del Buongustaio",
+        "opening_hours": "Monday 16:00-20:00,  Tuesdy-Saturday 8:30-13:00 and 16:00-20:00, Sunday close",
+        "operator": "Lunardi Gianpietro",
+        "phone": "328 637 5755",
+        "icon": "wine",
+        "shop": "wine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1927131,
+          45.4833851
+        ]
+      },
+      "id": "node/7379922953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380318146",
+        "addr:city": "Mestre",
+        "addr:housenumber": "118",
+        "addr:postcode": "30173",
+        "addr:street": "Via Bissuola",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "cose per la tua casa",
+        "opening_hours": "Mo: 16.00-19.30  Tu-Sat : 9.00-12.30  16.00-19.30",
+        "icon": "electrical",
+        "shop": "electrical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2640892,
+          45.4937865
+        ]
+      },
+      "id": "node/7380318146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380440688",
+        "addr:city": "Chirignago",
+        "addr:housenumber": "2",
+        "addr:postcode": "30174",
+        "addr:street": "Via Oriago",
+        "building": "retail",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "Michelacakedesigner@gmail.com",
+        "facebook": "https://www.facebook.com/michelacakedesigner/",
+        "name": "Pasticceria Michela Cake Designer",
+        "opening_hours": "Mo 07:30-12:30,  Tu-Sa 07:00-19:30,  Su 07:30-12:30",
+        "phone": "+39 392 263 2855",
+        "icon": "pastry",
+        "shop": "pastry",
+        "website": "http://pepepeperoncino.blogspot.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1834993,
+          45.4850159
+        ]
+      },
+      "id": "node/7380440688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380521359",
+        "addr:city": "Marghera",
+        "addr:housenumber": "box 7",
+        "addr:postcode": "30175",
+        "addr:street": "Piazza del Mercato",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "fabioeluna@libero.it",
+        "facebook": "https://www.facebook.com/FabioeLunapiazzamercato/",
+        "name": "Frutta e Verdura Fabio&Luna",
+        "opening_hours": "Mo-Fr 07:00-13:00, Sa 7:00-14:00, Su off",
+        "phone": "349 142 9433, 3491090360",
+        "icon": "greengrocer",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2244244,
+          45.4745765
+        ]
+      },
+      "id": "node/7380521359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380596847",
+        "addr:city": "Marghera",
+        "addr:housenumber": "4",
+        "addr:postcode": "30175",
+        "addr:street": "Via dell'Azoto",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "The 80's",
+        "opening_hours": "Mo-Fr 05:30-17:00 , Sat 06:30-13:00 , Sun closed",
+        "phone": "041 8503373",
+        "phone:delivery": "041 8503373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2421496,
+          45.4618353
+        ]
+      },
+      "id": "node/7380596847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380624948",
+        "addr:city": "Mestre",
+        "addr:housenumber": "40",
+        "addr:postcode": "30172",
+        "addr:street": "Via Cappuccina",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Mad Sport",
+        "opening_hours": "Mo-Su 09:00-21:30",
+        "phone": "041 955384",
+        "icon": "sports",
+        "shop": "sports",
+        "website": "https://www.madsport.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2387382,
+          45.4888429
+        ]
+      },
+      "id": "node/7380624948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380658772",
+        "addr:city": "Favaro Veneto",
+        "addr:housenumber": "26A",
+        "addr:postcode": "30173",
+        "addr:street": "Via Triestina",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "annarosa.co@gmail.com",
+        "facebook": "Pizzarosa",
+        "name": "Pizzarosa",
+        "opening_hours": "Tu-Sa 11:45- 13:45 / 18:00 - 22:00,  Su 18.00 - 22.00",
+        "phone": "0418011746",
+        "phone_1": "339 786 64 27",
+        "website": "http://www.pizzarosa.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2834843,
+          45.5046802
+        ]
+      },
+      "id": "node/7380658772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380663977",
+        "addr:city": "Zelarino",
+        "addr:housenumber": "7",
+        "addr:postcode": "30174",
+        "addr:street": "Via Parmenide",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@agriturismoda",
+        "facebook": "https://www.facebook.com/AgriturismodaMerlo",
+        "name": "Agriturismo da Merlo",
+        "opening_hours": "Fr-Sa 19:00-22:00      Su 12:00-15:30",
+        "phone": "041907238",
+        "phone_1": "3289439865",
+        "website": "http://www.agriturismodamerlo.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.19534,
+          45.5381403
+        ]
+      },
+      "id": "node/7380663977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380723380",
+        "addr:city": "Zelarino",
+        "addr:housenumber": "4",
+        "addr:postcode": "30174",
+        "addr:street": "Via Simone Martini",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "nonsolobacco.piave@libero.it",
+        "name": "Enoteca Non Solo Bacco Sas",
+        "opening_hours": "Mo-Sa 08:00-13:00   Mo-Tu 16:00-19:30  Th-Sa 08:00-19:30",
+        "phone": "0415460711",
+        "icon": "wine",
+        "shop": "wine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2130503,
+          45.5122167
+        ]
+      },
+      "id": "node/7380723380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380837618",
+        "addr:city": "Mestre",
+        "addr:housenumber": "115",
+        "addr:postcode": "30172",
+        "addr:street": "corso del popolo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@ilpuntoverde.it",
+        "facebook": "https://www.facebook.com/IlPuntoVerdeFornitureFloreali/",
+        "name": "Il punto verde",
+        "opening_hours": "Mo-Sa 09:00-13:00 15:30-19",
+        "payment:cash": "anche online",
+        "payment:online_payment": "yes",
+        "phone": "041986673",
+        "icon": "florist",
+        "shop": "florist",
+        "website": "https://www.ilpuntoverde.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2425159,
+          45.486753
+        ]
+      },
+      "id": "node/7380837618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380882313",
+        "addr:city": "Mestre",
+        "addr:housenumber": "1",
+        "addr:postcode": "30174",
+        "addr:street": "Via Francesco Fapanni",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "F.lli Galvani SNC.",
+        "opening_hours": "Mo-Sa 07:30-13:00",
+        "telephone": "041961612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.245678,
+          45.4954646
+        ]
+      },
+      "id": "node/7380882313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380888891",
+        "addr:housenumber": "3",
+        "addr:postcode": "30174",
+        "addr:street": "Via Fabio Palamidese",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@mercatovenezia.it",
+        "facebook": "https://www.facebook.com/CampagnaAmicaVE/",
+        "name": "Mercato Coperto di CAMPAGNA AMICA - Azienda agricola Basso",
+        "opening_hours": "Tu 8.00-13.00, Sa 8.00-13.00",
+        "phone": "041 501 0033",
+        "icon": "convenience",
+        "shop": "convenience",
+        "website": "https://mercatovenezia.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2436765,
+          45.4940839
+        ]
+      },
+      "id": "node/7380888891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7381530911",
+        "addr:city": "Mestre",
+        "addr:housenumber": "124",
+        "addr:postcode": "30174",
+        "addr:street": "Via Gazzera Alta",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "fax": "041 914690",
+        "name": "F.lli Roberto E Luca Ballarin S.n.c."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2191153,
+          45.494464
+        ]
+      },
+      "id": "node/7381530911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7382775204",
+        "addr:city": "Chirignago",
+        "addr:housenumber": "432",
+        "addr:postcode": "30174",
+        "addr:street": "Via Miranese",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Pizzeria Al Vecio Tris",
+        "opening_hours": "Mo-Su 18:00-22:00",
+        "phone": "041 922376",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1908186,
+          45.4845801
+        ]
+      },
+      "id": "node/7382775204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7382782715",
+        "addr:city": "Venezia VE",
+        "addr:housenumber": "99",
+        "addr:postcode": "30174",
+        "addr:street": "Via Castellana",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Blu Pescheria Snc Di Zocco A. e Di Grande L. - Venezia",
+        "opening_hours": "Mo-Su 08:30-13:00",
+        "phone": "041909754",
+        "phone:delivery": "3405833254",
+        "icon": "seafood",
+        "shop": "seafood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2116723,
+          45.5121743
+        ]
+      },
+      "id": "node/7382782715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7382789259",
+        "addr:city": "Zelarino Veneto",
+        "addr:housenumber": "128",
+        "addr:postcode": "30174",
+        "addr:street": "Via Gatta",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "glep128@alice.it",
+        "facebook": "https://it-it.facebook.com/Azienda-Ortofrutticola-Gatti-585740268212861/",
+        "name": "Azienda Ortofrutticola Gatti",
+        "phone": "348 823 9493",
+        "phone:delivery": "3405833254",
+        "icon": "agrarian",
+        "shop": "agrarian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2050107,
+          45.5381393
+        ]
+      },
+      "id": "node/7382789259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7382882529",
+        "addr:city": "Mestre",
+        "addr:housenumber": "7",
+        "addr:postcode": "30173",
+        "addr:street": "Viale Giuseppe Garibaldi",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "cuisine": "brunch",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Brunch Republic",
+        "opening_hours": "Mo-Su 08:00-23:45",
+        "phone": "041615398",
+        "website": "https://m.facebook.com/profile.php?id=1170439123016608&ref=content_filter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2445837,
+          45.4969621
+        ]
+      },
+      "id": "node/7382882529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7383002722",
+        "addr:city": "Mestre",
+        "addr:housenumber": "45",
+        "addr:postcode": "30170",
+        "addr:street": "Via Olivi",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@artusigiocattoli.it",
+        "facebook": "https://www.facebook.com/ArtusiGiocattoliMestre/?ref=br_rs",
+        "name": "Artusi Emporio Del Giocattolo",
+        "phone": "041 957307",
+        "phone_1": "041446803",
+        "icon": "toys",
+        "shop": "toys",
+        "website": "https://www.artusigiocattoli.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2414227,
+          45.4910254
+        ]
+      },
+      "id": "node/7383002722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7383022468",
+        "addr:city": "Mestre",
+        "addr:housenumber": "9",
+        "addr:postcode": "30170",
+        "addr:street": "Via San Rocco",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "fox070671@gmail.com",
+        "facebook": "https://www.facebook.com/Boutique-della-Parrucca-173159500089541/",
+        "name": "Boutique Della Parrucca",
+        "opening_hours": "Tu-Sa 9:00-12:30 15:30-19:30 Mo 15:30-19:30",
+        "operator": "Fox S.n.c.",
+        "phone": "041940419",
+        "icon": "hairdresser_supply",
+        "shop": "hairdresser_supply",
+        "website": "http://www.foxparrucchevenezia.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2421558,
+          45.4956671
+        ]
+      },
+      "id": "node/7383022468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7383034588",
+        "addr:city": "Marghera",
+        "addr:housenumber": "8",
+        "addr:postcode": "30175",
+        "addr:street": "Via dell'Elettricità",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "molodivenezia@artandfoodgroup.it",
+        "facebook": "https://www.facebook.com/molodivenezia/",
+        "name": "Molo di Venezia",
+        "opening_hours": "Mo-Fr 12:00-15:00",
+        "phone": "0415384983",
+        "website": "https://molodivenezia.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2357324,
+          45.4779189
+        ]
+      },
+      "id": "node/7383034588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7383315000",
+        "addr:city": "Mestre",
+        "addr:housenumber": "6",
+        "addr:postcode": "30174",
+        "addr:street": "Via Trezzo",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "cuisine": "fish;italian;mediterranean",
+        "delivery": "yes",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "alleonesas@gmail.com",
+        "facebook": "https://www.facebook.com/Al-Leone-Di-San-Marco-Ristorante-257504274337106/",
+        "name": "Al Leone Di San Marco",
+        "opening_hours": "mar-dom, 12:00-15:00; mar-sab, 19:00-00:00",
+        "phone": "+39 041 534 1742",
+        "phone_1": "+39 348 405 8682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2502813,
+          45.5054783
+        ]
+      },
+      "id": "node/7383315000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7383354707",
+        "addr:city": "Mestre Venezia",
+        "addr:housenumber": "164/B",
+        "addr:postcode": "30174",
+        "addr:street": "Via San Donà",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "gastronomiaitticacosmar@gmail.com",
+        "facebook": "gastronomia ittica cosmar",
+        "name": "Gastronomia Ittica Cosmar",
+        "phone": "+390415342576",
+        "icon": "deli",
+        "shop": "deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2611045,
+          45.5040896
+        ]
+      },
+      "id": "node/7383354707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7383380507",
+        "addr:city": "Mestre",
+        "addr:housenumber": "126/E",
+        "addr:postcode": "30174",
+        "addr:street": "Via Terraglio",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "cuisine": "burger;italian",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@amburgheria.it",
+        "facebook": "https://www.facebook.com/amburgheriaVE/?utm_source=tripadvisor&utm_medium=referral",
+        "name": "Amburgheria",
+        "opening_hours": "mar-dom, 18:00-01:00",
+        "phone": "+39 351 820 9911",
+        "website": "https://www.amburgheria.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2386244,
+          45.515017
+        ]
+      },
+      "id": "node/7383380507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7384307686",
+        "addr:city": "Venezia",
+        "addr:housenumber": "44",
+        "addr:postcode": "30174",
+        "addr:street": "Via Daniele Manin",
+        "addr:unit": "b",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/espostimestre/",
+        "name": "W.Esposti",
+        "phone": "041972005",
+        "icon": "gift",
+        "shop": "gift",
+        "website": "https://www.w-esposti.com/it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2416958,
+          45.4963907
+        ]
+      },
+      "id": "node/7384307686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7384647416",
+        "addr:city": "Mestre",
+        "addr:housenumber": "10",
+        "addr:postcode": "30174",
+        "addr:street": "Piazza Carpenedo",
+        "delivery:covid19": "no",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@otticavadoevedo.com",
+        "name": "Ottica Vado & Vedo",
+        "opening_hours": "Mo 15:30-19.30, Tu-Sa 09:30-12:30,15:30-19:30",
+        "opening_hours:covid19": "Tu-Fr 10:00-12:30",
+        "phone": "347 528 0360",
+        "icon": "optician",
+        "shop": "optician",
+        "smoking": "no",
+        "website": "https://www.otticavadoevedo.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2506766,
+          45.505377
+        ]
+      },
+      "id": "node/7384647416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7384724750",
+        "addr:city": "Mestre",
+        "addr:housenumber": "38",
+        "addr:postcode": "30174",
+        "addr:street": "Via Terraglio",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "store@prophilo.com",
+        "name": "Prophilo Srl Occhiali",
+        "opening_hours": "Mo-Sa 09:00-12:30,15:00-19:30",
+        "opening_hours:covid19": "Mo-Sa 09:00-12:00",
+        "phone": "041 5369262",
+        "icon": "optician",
+        "shop": "optician",
+        "website": "https://www.prophilo.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2379922,
+          45.5025702
+        ]
+      },
+      "id": "node/7384724750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7384828183",
+        "addr:city": "Mestre",
+        "addr:housenumber": "6",
+        "addr:postcode": "30171",
+        "addr:street": "Via Miranese",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "erik00-@libero.it",
+        "facebook": "https://m.facebook.com/Nuova-Arte-Della-Pizza-334256503284264/?tsid=0.3347001989037073&source=result",
+        "name": "Nuova Arte Della Pizza",
+        "opening_hours": "giovedì 11–13:30 18–21:30 venerdì 11–13:30 18–21:30 sabato 18–21:30 domenica (Pasqua) 18–22 L'orario può variare lunedì (Lunedì dell'Angelo) Chiuso L'orario può variare martedì 11–13:30 18–21:30 mercoledì 11–13:30 18–21:30",
+        "phone": "3461650551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2353257,
+          45.492154
+        ]
+      },
+      "id": "node/7384828183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7384875312",
+        "addr:city": "Venezia",
+        "addr:postcode": "30100",
+        "addr:street": "corte dei Pali",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@iesfarm.it",
+        "name": "I&s Farm Il Biologico Di Sant'Erasmo",
+        "opening_hours:covid19": "Mo-Fr 8:30-13:30,16:00-19:30; Sa 8:30,13:30",
+        "phone": "3393640736",
+        "icon": "farm",
+        "shop": "farm",
+        "website": "http://www.iesfarm.it/?page_id=105&lang=it_IT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3339569,
+          45.4415626
+        ]
+      },
+      "id": "node/7384875312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7384879396",
+        "addr:city": "Mestre(VE)",
+        "addr:housenumber": "17",
+        "addr:postcode": "30174",
+        "addr:street": "Piazza Carpenedo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/PasticceriaCeccon",
+        "name": "Pasticceria Ceccon",
+        "phone": "041 534 0116",
+        "icon": "pastry",
+        "shop": "pastry",
+        "website": "http://www.pasticceriaceccon.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2505447,
+          45.5048911
+        ]
+      },
+      "id": "node/7384879396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7384961301",
+        "addr:city": "Venezia",
+        "addr:housenumber": "4666",
+        "addr:postcode": "30124",
+        "addr:street": "Calle dei Fabbri",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "opening_hours": "Mo-Su 8:30-20:30",
+        "phone": "0415232682",
+        "website": "http://www.cibovenezia.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.335677,
+          45.4360647
+        ]
+      },
+      "id": "node/7384961301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385015547",
+        "addr:city": "Mestre",
+        "addr:housenumber": "46",
+        "addr:postcode": "30173",
+        "addr:street": "Via Bissuola",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "martina.bevilacqua12@gmail.com",
+        "phone": "0415343001",
+        "icon": "farm",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2558508,
+          45.4939777
+        ]
+      },
+      "id": "node/7385015547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385296192",
+        "addr:city": "Venezia",
+        "addr:housenumber": "1091",
+        "addr:postcode": "30125",
+        "addr:street": "San Polo,Calle del Scaleter",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@pascosas.it",
+        "facebook": "Pasco sas",
+        "name": "Pasco S.a.s, Ortofrutta e Alimentari",
+        "phone": "3403982523,  3297964046",
+        "icon": "greengrocer",
+        "shop": "convenience,greengrocer",
+        "website": "www.pascoortofruttaveneto.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32913,
+          45.4361957
+        ]
+      },
+      "id": "node/7385296192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385371190",
+        "addr:city": "Mestre",
+        "addr:housenumber": "4",
+        "addr:street": "Riviera Vincenzo Coronelli",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@dm1973.it",
+        "name": "La Dolciaria Mestrina Dal 1973 Srl",
+        "opening_hours": "Mo-Fr 00–13, 15–18:30 Sa 00–18:30 Su 00–12:30",
+        "phone": "+39 041980372",
+        "icon": "pastry",
+        "shop": "pastry",
+        "website": "http://www.dm1973.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2470731,
+          45.4935847
+        ]
+      },
+      "id": "node/7385371190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385578757",
+        "addr:city": "Mestre",
+        "addr:housenumber": "5",
+        "addr:postcode": "30174",
+        "addr:street": "Galleria Giacomo Matteotti",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "ottica.gatto@libero.it",
+        "facebook": "Ottica Gatto",
+        "name": "Ottica Gatto",
+        "opening_hours": "Tu-Sa 9:00-12:30, 15:30-19:30; Mo 15:30-19:30; Su off",
+        "phone": "041951629",
+        "phone:delivery": "3487860943",
+        "icon": "optician",
+        "shop": "optician",
+        "website": "otticagatto.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2397705,
+          45.4932147
+        ]
+      },
+      "id": "node/7385578757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385758792",
+        "addr:city": "Mestre",
+        "addr:housenumber": "76",
+        "addr:postcode": "30172",
+        "addr:street": "Piazza 27 Ottobre",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Enozootecnica Italiana S.a.s.",
+        "opening_hours": "08:15–12:45 15:15–19:45",
+        "phone": "041 972974",
+        "icon": "clothes",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2437949,
+          45.4922176
+        ]
+      },
+      "id": "node/7385758792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385779732",
+        "addr:city": "Mestre",
+        "addr:housenumber": "5",
+        "addr:postcode": "30174",
+        "addr:street": "Piazzetta Edmondo Matter",
+        "icon": "ice_cream",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "alducaluca@gmail.com",
+        "facebook": "https://www.facebook.com/pages/Gelateria-Al-Duca",
+        "name": "Al Duca",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "phone": "3703151328",
+        "website": "https://gelateriaalduca.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2424505,
+          45.4946298
+        ]
+      },
+      "id": "node/7385779732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385781880",
+        "addr:city": "Mestre",
+        "addr:housenumber": "3",
+        "addr:postcode": "30174",
+        "addr:street": "Via del Tinto",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/Vivaio-Flor-Claudia-e-Cristina-795391617143746/",
+        "name": "Azienda Agricola Flor Claudia e Cristina",
+        "opening_hours": "Mo off; Tu-Sa 08.30-12.30 , 15:30-19:00; Su 09:00-12.30",
+        "phone": "041 980470",
+        "icon": "garden_centre",
+        "shop": "garden_centre",
+        "website": "http://www.florclaudiaecristina.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2444994,
+          45.5141624
+        ]
+      },
+      "id": "node/7385781880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385785492",
+        "addr:city": "Mestre",
+        "addr:housenumber": "18",
+        "addr:postcode": "30172",
+        "addr:street": "Piazzale Donatori Di Sangue",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Alba Srl Ghegin",
+        "opening_hours": "09:15–12:30 15:30–19:15",
+        "operator": "Alba Srl Ghegin",
+        "phone": "041 977916",
+        "icon": "hardware",
+        "shop": "hardware",
+        "website": "http://www.ghegininteriors.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2390018,
+          45.4918129
+        ]
+      },
+      "id": "node/7385785492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385924237",
+        "addr:city": "Mestre(VE)",
+        "addr:housenumber": "18",
+        "addr:postcode": "30174",
+        "addr:street": "Piazza Carpenedo",
+        "icon": "restaurant",
+        "amenity": "restaurant",
+        "cuisine": "italian;pizza",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@osteriadaluca.it",
+        "facebook": "https://it-it.facebook.com/osteriadalucamestre",
+        "name": "Osteria Da Luca",
+        "phone": "+393394587496",
+        "website": "https://www.osteriadaluca.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2505072,
+          45.5048668
+        ]
+      },
+      "id": "node/7385924237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385965726",
+        "addr:city": "Venezia(VE)",
+        "addr:housenumber": "52",
+        "addr:postcode": "30174",
+        "addr:street": "Via Fratelli Cavanis",
+        "craft": "caterer",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@peccatidigola.info",
+        "name": "Scuola Di Cucina E Catering Peccati Di Gola",
+        "opening_hours": "Mo-Su 18:00-02:00",
+        "phone": "041977866",
+        "website": "https://peccatidigola.info"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2016942,
+          45.4820042
+        ]
+      },
+      "id": "node/7385965726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385999007",
+        "addr:city": "Mestre",
+        "addr:housenumber": "7",
+        "addr:postcode": "30172",
+        "addr:street": "Via Ca' Savorgnan",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "asolda@gmail.com",
+        "name": "Can & Gato Amici Felici",
+        "phone": "041958899",
+        "icon": "pet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2424041,
+          45.4912817
+        ]
+      },
+      "id": "node/7385999007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7386025156",
+        "addr:city": "Mestre",
+        "addr:housenumber": "119",
+        "addr:postcode": "30174",
+        "addr:street": "Via Gazzera Alta",
+        "addr:unit": "/A",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "monica.marafatto@libero.it",
+        "name": "Tom & Jerry",
+        "phone": "3921198700",
+        "icon": "pet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2189602,
+          45.4943002
+        ]
+      },
+      "id": "node/7386025156"
     }
   ]
 }

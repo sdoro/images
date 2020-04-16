@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-13T19:04:02Z",
+  "timestamp": "2020-04-16T16:17:03Z",
   "features": [
     {
       "type": "Feature",
@@ -139,6 +139,35 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3116780944",
+        "addr:city": "Venezia",
+        "addr:housenumber": "1037",
+        "addr:neighbourhood": "Cannaregio",
+        "addr:place": "Cannaregio",
+        "addr:postcode": "30121",
+        "addr:street": "Fondamenta De Cannaregio",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "ogio@19-71.it",
+        "facebook": "https://www.facebook.com/ogiovenezia/",
+        "name": "Ogio",
+        "opening_hours": "We-Fr 10:00-18:00 Sa-Th 11:00-18:00",
+        "phone": "0415413099;3388487610",
+        "website": "https://www.ogio-ve.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.323016,
+          45.4449924
+        ]
+      },
+      "id": "node/3116780944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3903484077",
         "addr:city": "Mestre",
         "addr:housenumber": "120",
@@ -163,6 +192,33 @@
         ]
       },
       "id": "node/3903484077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4238218279",
+        "addr:city": "Venezia",
+        "addr:housenumber": "3763",
+        "addr:postcode": "30121",
+        "addr:street": "Cannaregio",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "mealiberatutti@gmail.com",
+        "facebook": "https://www.facebook.com/MEA-Libera-Tutti-151997314963984/",
+        "name": "Mea Libera Tutti",
+        "opening_hours": "lun-ven 10:00-12:00; sab-dom 16:00-18:00",
+        "payment:online_payment": "yes",
+        "phone": "0415210454",
+        "shop": "deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3353717,
+          45.4430014
+        ]
+      },
+      "id": "node/4238218279"
     },
     {
       "type": "Feature",
@@ -314,6 +370,32 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4320229195",
+        "addr:city": "Venezia",
+        "addr:housenumber": "2836",
+        "addr:postcode": "30123",
+        "addr:street": "Fondamenta Girardini",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/Bar-Artisti-Osteria-ai-Pugni-108731945845105/",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "osteriaaipugni@gmail.com",
+        "name": "Osteria ai Pugni",
+        "opening_hours": "Mo-Su 08:30-01:00",
+        "phone": "3469607785;3939680135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.324375,
+          45.4330664
+        ]
+      },
+      "id": "node/4320229195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4720362189",
         "addr:city": "Mestre",
         "addr:housenumber": "66c",
@@ -448,16 +530,18 @@
       "properties": {
         "@id": "node/4792862621",
         "addr:city": "Mestre",
-        "addr:housenumber": "38a",
+        "addr:housenumber": "38",
         "addr:postcode": "30171",
         "addr:street": "Via Miranese",
+        "addr:unit": "a",
         "delivery:covid19": "yes",
-        "delivery:description:it": "\"Attivazione servizio a domicilio di generi di prima necessità per COVID-19\"",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "pasticceria.miranese@gmail.com",
+        "facebook": "https://www.facebook.com/pasticceria.miranese/",
         "name": "Pasticceria Miranese",
         "opening_hours": "07:00-13:00,15:30-20:00",
-        "payment": "online",
-        "phone": "3281923032",
+        "payment": "credit_cards",
+        "phone": "041 802 0940;3281923032",
         "shop": "pastry"
       },
       "geometry": {
@@ -628,6 +712,33 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4964781359",
+        "addr:city": "Venezia",
+        "addr:housenumber": "2907",
+        "addr:postcode": "30122",
+        "addr:street": "Salizada San Francesco",
+        "addr:unit": "A",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "manuel.cas@hotmail.it",
+        "name": "Al Canton del Vin",
+        "opening_hours": "Mo-Sa 09:00-13:00,17:00-19:30",
+        "phone": "0412770449",
+        "shop": "wine",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3473465,
+          45.4373042
+        ]
+      },
+      "id": "node/4964781359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5224438169",
         "addr:city": "Carpenedo",
         "addr:housenumber": "139",
@@ -688,12 +799,14 @@
         "addr:street": "Via Giuseppe Verdi",
         "addr:unit": "a",
         "contact:email": "info@pianetacomputer.it",
-        "contact:phone": "041976307",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "info@pianetacomputer.it",
+        "facebook": "https://www.facebook.com/PianetaComputer/",
         "name": "Pianeta Computer",
         "opening_hours": "Tu-Su 09:00-12:30; Mo-Fr 15:30-19:30",
+        "payment:credit_cards": "yes",
+        "phone": "041 976307",
         "shop": "computer",
         "website": "https://www.pianetacomputer.it"
       },
@@ -2388,7 +2501,7 @@
         "email": "martina.bevilacqua12@gmail.com",
         "name": "Frutta E Verdura Di Bevilacqua Sergio",
         "phone": "0415343001",
-        "shop": "farm"
+        "shop": "greengrocer"
       },
       "geometry": {
         "type": "Point",
@@ -2501,33 +2614,6 @@
         ]
       },
       "id": "node/7385758792"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7385779732",
-        "addr:city": "Mestre",
-        "addr:housenumber": "5",
-        "addr:postcode": "30174",
-        "addr:street": "Piazzetta Edmondo Matter",
-        "amenity": "ice_cream",
-        "delivery:covid19": "yes",
-        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
-        "email": "alducaluca@gmail.com",
-        "facebook": "https://www.facebook.com/pages/Gelateria-Al-Duca",
-        "name": "Al Duca",
-        "opening_hours": "Mo-Su 09:00-18:00",
-        "phone": "3703151328",
-        "website": "https://gelateriaalduca.business.site/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2424505,
-          45.4946298
-        ]
-      },
-      "id": "node/7385779732"
     },
     {
       "type": "Feature",
@@ -2658,6 +2744,32 @@
         ]
       },
       "id": "node/7385999007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7386005964",
+        "addr:city": "Venezia",
+        "addr:housenumber": "63",
+        "addr:postcode": "30174",
+        "addr:street": "Via Castellana",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "pizzeriadaluca1974@libero.it",
+        "name": "Pizzeria Da Luca Di Crepaz Luca",
+        "opening_hours": "Mo-Su 17:15-22:30",
+        "phone": "348 6480879"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0857425,
+          46.1784793
+        ]
+      },
+      "id": "node/7386005964"
     },
     {
       "type": "Feature",
@@ -2807,6 +2919,115 @@
         ]
       },
       "id": "node/7394784051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7410880726",
+        "addr:city": "Venezia",
+        "addr:housenumber": "86",
+        "addr:postcode": "30135",
+        "addr:street": "Salizada San Pantalon",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@barozzivenezia.it",
+        "facebook": "https://www.facebook.com/barozzivenezia.it/",
+        "name": "Panificio Pasticceria Alimentari Barozzi",
+        "opening_hours": "Mo-Sa 06:00-19:30 Su off",
+        "phone": "041710233;3791421683",
+        "shop": "pastry",
+        "website": "https://barozzivenezia.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3237702,
+          45.4363026
+        ]
+      },
+      "id": "node/7410880726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7410884020",
+        "addr:city": "Venezia",
+        "addr:housenumber": "122/C",
+        "addr:neighbourhood": "Cannaregio",
+        "addr:postcode": "30121",
+        "addr:street": "Via Lista di Spagna",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "venezia@retevinipro.it",
+        "name": "Enoteca Venezia S.r.l.",
+        "opening_hours": "Mo 10:00-23:00; Tu 10:00-23:00; We 10:00-23:00; Th 10:00-23:00; Fr 10:00-23:00; Sa 10:00-23:00; Su 10:00-23:00; ",
+        "payment:online_payment": "yes",
+        "phone": "+39 389 5138879",
+        "shop": "wine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3230778,
+          45.4418252
+        ]
+      },
+      "id": "node/7410884020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7411137525",
+        "addr:city": "Venezia",
+        "addr:housenumber": "4687",
+        "addr:postcode": "30122",
+        "addr:street": "Castello",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@sestantevenezia.com",
+        "facebook": "https://www.facebook.com/Sestantevenezia/",
+        "name": "Sestante Di Foffani Francesca",
+        "opening_hours": "Tu-Sa 11:30-22:30, Mo 11,30-15,30, Su closed",
+        "phone": "041 476 4210",
+        "website": "sestantevenezia.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3429471,
+          45.4344943
+        ]
+      },
+      "id": "node/7411137525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7411269733",
+        "addr:housenumber": "4441/A",
+        "addr:neighbourhood": "Cannaregio",
+        "addr:postcode": "30123",
+        "addr:street": "Strada Nova",
+        "communication:mobile_phone": "3355476741",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "bisiol.macelleria@libero.it",
+        "facebook": "n/a",
+        "name": "Macelleria Bisiol Di Ruggero",
+        "opening_hours": "Mo-Sa 08:30-13:00 We-Th 16:30-19:30",
+        "phone": "0415221183",
+        "shop": "butcher",
+        "website": "n/a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3360478,
+          45.4404201
+        ]
+      },
+      "id": "node/7411269733"
     }
   ]
 }

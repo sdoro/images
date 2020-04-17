@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-16T16:17:03Z",
+  "timestamp": "2020-04-17T20:43:02Z",
   "features": [
     {
       "type": "Feature",
@@ -111,6 +111,30 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2262139777",
+        "addr:city": "Venezia",
+        "addr:housenumber": "3058/A",
+        "addr:street": "dorsoduro",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "semhal1978@icloud.com",
+        "facebook": "https://www.facebook.com/Gelateria-il-Doge-181058955394574/",
+        "name": "Gelateria il Doge",
+        "phone": "339 148 2164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.324087,
+          45.4338571
+        ]
+      },
+      "id": "node/2262139777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/2689605789",
         "addr:city": "Mestre Venezia",
         "addr:housenumber": "18",
@@ -196,6 +220,29 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4136241389",
+        "addr:street": "Santa Croce 197\\e",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "albaccofeliceve@gmail.com",
+        "facebook": "https://www.facebook.com/Ristorante-Pizzeria-Al-Bacco-Felice-113511728662614/",
+        "name": "Al Bacco Felice",
+        "opening_hours": "12:00-24:00",
+        "phone": "0415287794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3223788,
+          45.4380291
+        ]
+      },
+      "id": "node/4136241389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4238218279",
         "addr:city": "Venezia",
         "addr:housenumber": "3763",
@@ -252,6 +299,34 @@
         ]
       },
       "id": "node/4238318505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4242822844",
+        "addr:city": "Venezia",
+        "addr:housenumber": "5793a",
+        "addr:neighbourhood": "Castello",
+        "addr:place": "Castello",
+        "addr:postcode": "30122",
+        "addr:street": "Calle del Mondo Novo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@prosciuttoeparmigiano.it",
+        "name": "Latteria Senigaglia Marco &c Sas",
+        "opening_hours": "Mo-Sa 7:30-14:00; 15:30-19:30",
+        "phone": "338 312 0284",
+        "shop": "deli",
+        "website": "http://www.prosciuttoeparmigiano.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3403076,
+          45.4371495
+        ]
+      },
+      "id": "node/4242822844"
     },
     {
       "type": "Feature",
@@ -376,10 +451,10 @@
         "addr:postcode": "30123",
         "addr:street": "Fondamenta Girardini",
         "amenity": "bar",
-        "contact:facebook": "https://www.facebook.com/Bar-Artisti-Osteria-ai-Pugni-108731945845105/",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "osteriaaipugni@gmail.com",
+        "facebook": "https://www.facebook.com/Bar-Artisti-Osteria-ai-Pugni-108731945845105/",
         "name": "Osteria ai Pugni",
         "opening_hours": "Mo-Su 08:30-01:00",
         "phone": "3469607785;3939680135"
@@ -392,6 +467,58 @@
         ]
       },
       "id": "node/4320229195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4366618291",
+        "addr:city": "Venezia",
+        "addr:housenumber": "2564",
+        "addr:postcode": "30100",
+        "addr:street": "Calle del Scaleter",
+        "amenity": "cafe",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/Storico-Caff%C3%A8-dei-Frari-O-Toppo-2095313374025453/",
+        "name": "Caffè Dei Frari",
+        "phone": "3478293158",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3272828,
+          45.437306
+        ]
+      },
+      "id": "node/4366618291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4368513896",
+        "addr:city": "Venezia",
+        "addr:housenumber": "2499",
+        "addr:postcode": "30121",
+        "addr:street": "Fondamenta de la Misericordia",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/bacarodelgelato",
+        "name": "Bacaro del Gelato",
+        "outdoor_seating": "no",
+        "phone": "347 050 7737",
+        "shop": "ice_cream",
+        "website": "https://bacarodelgelato.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3330473,
+          45.4440672
+        ]
+      },
+      "id": "node/4368513896"
     },
     {
       "type": "Feature",
@@ -2517,14 +2644,16 @@
       "properties": {
         "@id": "node/7385296192",
         "addr:city": "Venezia",
-        "addr:housenumber": "1091",
+        "addr:housenumber": "710",
         "addr:postcode": "30125",
-        "addr:street": "San Polo,Calle del Scaleter",
+        "addr:street": "San Polo,Calle Corner",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "info@pascosas.it",
-        "name": "Pasco S.a.s, Ortofrutta e Alimentari",
-        "phone": "3403982523,  3297964046",
+        "facebook": "https://it-it.facebook.com/pascosas/",
+        "name": "Pasco S.a.s.",
+        "payment:online_payment": "yes",
+        "phone": "3403982523;3297964046",
         "shop": "greengrocer",
         "website": "http://www.pascoortofruttaveneto.com/"
       },
@@ -2744,32 +2873,6 @@
         ]
       },
       "id": "node/7385999007"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7386005964",
-        "addr:city": "Venezia",
-        "addr:housenumber": "63",
-        "addr:postcode": "30174",
-        "addr:street": "Via Castellana",
-        "amenity": "restaurant",
-        "cuisine": "pizza",
-        "delivery:covid19": "yes",
-        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
-        "email": "pizzeriadaluca1974@libero.it",
-        "name": "Pizzeria Da Luca Di Crepaz Luca",
-        "opening_hours": "Mo-Su 17:15-22:30",
-        "phone": "348 6480879"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0857425,
-          46.1784793
-        ]
-      },
-      "id": "node/7386005964"
     },
     {
       "type": "Feature",
@@ -3028,6 +3131,85 @@
         ]
       },
       "id": "node/7411269733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7412059165",
+        "addr:city": "venezia",
+        "addr:housenumber": "5027",
+        "addr:postcode": "30121",
+        "addr:street": "CANNAREGIO",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "azanin5@gmail.com",
+        "facebook": "https://www.facebook.com/Il-caff%C3%A8-gelato-e-latelier-della-pizza-437505303077835/",
+        "name": "il Caffegelato",
+        "phone": "3486516580;0415287598"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3409184,
+          45.442804
+        ]
+      },
+      "id": "node/7412059165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7413773373",
+        "addr:city": "Venezia",
+        "addr:housenumber": "2751",
+        "addr:postcode": "30123",
+        "addr:street": "Calle Lunga de San Barnaba",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "\"Attivazione servizio a domicilio di generi di prima necessità per COVID-19\"",
+        "email": "info@boudoir.venice.it",
+        "facebook": "https://www.facebook.com/ottica.Boudoir",
+        "name": "Boudoir di De Lorenzo Alessandro",
+        "opening_hours": "Mo-Sa 10.00-13.00, 15.00-19.30",
+        "phone": "041 241 0192",
+        "shop": "optician",
+        "website": "https://www.boudoir.venice.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3245675,
+          45.4327586
+        ]
+      },
+      "id": "node/7413773373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7413913445",
+        "addr:city": "Venezia",
+        "addr:housenumber": "805",
+        "addr:postcode": "30125",
+        "addr:street": "Calle del Figher",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@casacappellariristorante.it",
+        "facebook": "https://www.facebook.com/ristorantecasacappellari/",
+        "name": "Casa Cappellari",
+        "opening_hours": "Tu-Su 12.00-23.00",
+        "phone": "+39 3346252374",
+        "website": "www.casacappellariristorante.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3336465,
+          45.4383907
+        ]
+      },
+      "id": "node/7413913445"
     }
   ]
 }

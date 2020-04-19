@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-17T20:43:02Z",
+  "timestamp": "2020-04-19T04:59:02Z",
   "features": [
     {
       "type": "Feature",
@@ -80,6 +80,35 @@
         ]
       },
       "id": "node/1522494266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2089190146",
+        "addr:housenumber": "929",
+        "addr:neighbourhood": "San Marco",
+        "addr:place": "San Marco",
+        "addr:street": "Calle dei Fabbri",
+        "amenity": "ice_cream",
+        "cuisine": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "diet:gluten_free": "yes",
+        "facebook": "https://www.facebook.com/gelatofantasy/",
+        "name": "Gelato Fantasy S.r.l",
+        "note": "Gluten free ice cream, in plastic cups, no gluten free wafers.",
+        "organic": "no",
+        "phone": "041 522 5993",
+        "website": "http://www.gelatofantasy.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3371586,
+          45.4349976
+        ]
+      },
+      "id": "node/2089190146"
     },
     {
       "type": "Feature",
@@ -192,6 +221,58 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3371984277",
+        "addr:city": "Venezia",
+        "addr:housenumber": "1395",
+        "addr:neighbourhood": "Santa Croce",
+        "addr:postcode": "30135",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Trattoria Antica Besseta",
+        "phone": "+39 041 721687",
+        "website": "http://www.anticabesseta.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3262939,
+          45.4406175
+        ]
+      },
+      "id": "node/3371984277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3415618494",
+        "addr:housenumber": "1252",
+        "addr:neighbourhood": "Santa Croce",
+        "addr:postcode": "30135",
+        "addr:street": "Lista vecchia dei, Lista Bari",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "maria.venezia@live.it",
+        "facebook": "https://www.facebook.com/osteriaalbanovadallamaria",
+        "name": "Osteria Alba Nova dalla Maria",
+        "opening_hours": "Mo off; Tue-Su 11–14:45 18:30–22",
+        "phone": "041 524 1353",
+        "website": "https://www.osteriaalbanova.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3259311,
+          45.4412148
+        ]
+      },
+      "id": "node/3415618494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3903484077",
         "addr:city": "Mestre",
         "addr:housenumber": "120",
@@ -239,6 +320,34 @@
         ]
       },
       "id": "node/4136241389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4234614687",
+        "addr:city": "Venezia",
+        "addr:housenumber": "4589",
+        "addr:postcode": "30124",
+        "addr:street": "Campo San Luca",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@golosessi.com",
+        "facebook": "https://www.facebook.com/pasticceriamarchini/",
+        "name": "Marchini Time",
+        "opening_hours": "Mo-Su 7.30-20.30",
+        "payment:online": "yes",
+        "phone": "041 241 3087;0415287507",
+        "shop": "pastry",
+        "website": "https://www.marchinitime.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3351475,
+          45.4358592
+        ]
+      },
+      "id": "node/4234614687"
     },
     {
       "type": "Feature",
@@ -523,6 +632,33 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4492364491",
+        "addr:city": "Venezia",
+        "addr:housenumber": "3016",
+        "addr:place": "Cannaregio",
+        "addr:postcode": "30121",
+        "addr:street": "Fondamenta Moro o Coletti",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "alleduegondolette@gmail.com",
+        "name": "Trattoria Alle Due Gondolette",
+        "opening_hours": "Tu-Sa 12.00-14.00, 19.00-22.00; Su-Mo closed",
+        "phone": "3497575106",
+        "website": "https://www.alleduegondolette.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.323748,
+          45.4467451
+        ]
+      },
+      "id": "node/4492364491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4720362189",
         "addr:city": "Mestre",
         "addr:housenumber": "66c",
@@ -707,7 +843,7 @@
       "properties": {
         "@id": "node/4819973319",
         "addr:city": "Venezia",
-        "addr:housenumber": "5065",
+        "addr:housenumber": "5065/D",
         "addr:neighbourhood": "Castello",
         "addr:place": "Castello",
         "addr:postcode": "30122",
@@ -715,8 +851,8 @@
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "castello.ve@deltasviluppo.com",
-        "facebook": "https://it-it.facebook.com/pg/SimplyVeneziaCastello/about/?ref=page_internal",
-        "name": "Punto Sma City",
+        "facebook": "https://it-it.facebook.com/SimplyVeneziaCastello/",
+        "name": "Punto Simply",
         "opening_hours": "Mo-Sa 08:30-20:00, Su off",
         "opening_hours:covid19": "Mo-Sa 08:30-20:00, Su off",
         "operator": "New Venice Com Srl.",
@@ -919,6 +1055,57 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5936965086",
+        "addr:housenumber": "319",
+        "addr:street": "Calle de le Becarie o Panataria",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "wenice@wenice.it",
+        "facebook": "https://m.facebook.com/WEnice.venezia",
+        "name": "Wenice",
+        "phone": "348 346 5373;041 822 0298",
+        "website": "https://www.wenice.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3338472,
+          45.4394671
+        ]
+      },
+      "id": "node/5936965086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6441258986",
+        "addr:housenumber": "951",
+        "addr:postcode": "30124",
+        "addr:street": "Calle Fiubera",
+        "amenity": "cafe",
+        "delivery:covid19": "covid19=yes",
+        "delivery:description:it": "\"Attivazione servizio a domicilio di generi di prima necessità per COVID-19\"",
+        "email": "shop@rosasalva.it",
+        "facebook": "https://www.facebook.com/rosasalva.venezia/",
+        "name": "Rosa Salva",
+        "name:it": "E.Rosa Salva",
+        "opening_hours": "Orari di apertura: 08:00 - 20:00",
+        "phone": "0415210544;041988400",
+        "website": "https://shop.rosasalva.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3379104,
+          45.4352727
+        ]
+      },
+      "id": "node/6441258986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6568755452",
         "addr:city": "Mestre",
         "addr:housenumber": "91",
@@ -971,6 +1158,38 @@
         ]
       },
       "id": "node/6579530112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6855547379",
+        "addr:city": "Venezia",
+        "addr:country": "IT",
+        "addr:housenumber": "2749",
+        "addr:place": "San Polo",
+        "addr:postcode": "30125",
+        "addr:street": "San Polo",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@trattoriadaignazio.com",
+        "name": "Trattoria da Ignazio",
+        "opening_hours": "Mo-Su 8:30-22.00",
+        "outdoor_seating": "yes",
+        "phone": "+39 41 5234852",
+        "smoking": "outside",
+        "website": "https://www.trattoriadaignazio.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3285718,
+          45.4366333
+        ]
+      },
+      "id": "node/6855547379"
     },
     {
       "type": "Feature",
@@ -1345,32 +1564,6 @@
         ]
       },
       "id": "node/7375618313"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7375913576",
-        "addr:city": "Favaro Veneto",
-        "addr:housenumber": "348",
-        "addr:postcode": "30173",
-        "addr:street": "Via San Donà",
-        "addr:unit": "b",
-        "amenity": "ice_cream",
-        "delivery:covid19": "yes",
-        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
-        "facebook": "https://it-it.facebook.com/anticagelateria.venexiana",
-        "name": "Antica Gelateria Venexiana",
-        "opening_hours": "We-Mo 15:30-23:00",
-        "phone": "335 549 6971"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.2763554,
-          45.5026353
-        ]
-      },
-      "id": "node/7375913576"
     },
     {
       "type": "Feature",
@@ -3210,6 +3403,211 @@
         ]
       },
       "id": "node/7413913445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7416443786",
+        "addr:city": "Venezia",
+        "addr:housenumber": "2465/F",
+        "addr:postcode": "30125",
+        "addr:street": "San Polo",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "magumazave@gmail.com",
+        "facebook": "https://www.facebook.com/Latteria2465/",
+        "name": "Latteria 2465",
+        "phone": "3494251227;3494623370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3243024,
+          45.4386116
+        ]
+      },
+      "id": "node/7416443786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7416615860",
+        "addr:city": "Venezia",
+        "addr:housenumber": "5555a",
+        "addr:postcode": "30121",
+        "addr:street": "Salizada San Canzian",
+        "addr:unit": "1",
+        "amenity": "cafe",
+        "delivery": "covid19=yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "IL BUONGUSTO",
+        "opening_hours": "lun-Sab:10.00-13.30 , domenica chiuso",
+        "website": "il-buongusto.business.site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3379379,
+          45.4397578
+        ]
+      },
+      "id": "node/7416615860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7416704721",
+        "addr:city": "Venezia",
+        "addr:housenumber": "4690/f",
+        "addr:postcode": "30121",
+        "addr:street": "Calle del Magazzen",
+        "craft": "caterer",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "venice@ladogaressa.it",
+        "facebook": "https://www.facebook.com/LaDogaressaCatering",
+        "name": "La Dogaressa Catering Srl",
+        "phone": "041 241 1081",
+        "website": "https://www.ladogaressa.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3367357,
+          45.441851
+        ]
+      },
+      "id": "node/7416704721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7417079687",
+        "addr:city": "Venezia",
+        "addr:housenumber": "328",
+        "addr:postcode": "30125",
+        "addr:street": "Campo S. Polo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Ittica Zane Snc di Alessandro e Matteo Zane",
+        "opening_hours": "Tu-Sa 07:00-13:00",
+        "phone": "041 520 3333",
+        "shop": "seafood",
+        "website": "https://pescheria-cristiano-zane-sas.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3340608,
+          45.4399344
+        ]
+      },
+      "id": "node/7417079687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7417141043",
+        "addr:city": "Venezia",
+        "addr:housenumber": "1724",
+        "addr:postcode": "30125",
+        "addr:street": "Calle San Cassiano",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/cartoleriasancassiano/",
+        "name": "Cartoleria San Cassiano",
+        "opening_hours": "Mo-Sa 8:30-19:00",
+        "phone": "041 894 3085",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3323474,
+          45.4395325
+        ]
+      },
+      "id": "node/7417141043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7417244637",
+        "addr:city": "Venezia",
+        "addr:housenumber": "60206",
+        "addr:postcode": "30122",
+        "addr:street": "Calle longa Santa Maria Formosa",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@laltraottica.com",
+        "facebook": "https://www.facebook.com/laltraottica",
+        "name": "L'altraottica di Matteo Vianello",
+        "opening_hours": "Mo-Sa 09.30-12.30/15.30-19.30",
+        "phone": "0412411856",
+        "phone_1": "335292236",
+        "shop": "optician",
+        "website": "https://laltraottica.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3416827,
+          45.4376706
+        ]
+      },
+      "id": "node/7417244637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7417428533",
+        "addr:city": "Favaro Veneto",
+        "addr:housenumber": "348",
+        "addr:postcode": "30173",
+        "addr:street": "Via San Donà",
+        "addr:unit": "d",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/anticagelateria.venexiana",
+        "name": "Antica Gelateria Venexiana",
+        "opening_hours": "We-Su 15:30-23:00",
+        "phone": "335 549 6971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2763489,
+          45.5026318
+        ]
+      },
+      "id": "node/7417428533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7417444356",
+        "addr:city": "Venezia",
+        "addr:housenumber": "149/151",
+        "addr:postcode": "30126",
+        "addr:street": "Via Sandro Gallo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Pescheria da Leone",
+        "opening_hours": "Su-Mo off  Tu-Sa 8:00-13:00",
+        "payment:cash": "yes",
+        "phone": "338 441 2954",
+        "shop": "seafood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3621006,
+          45.4022805
+        ]
+      },
+      "id": "node/7417444356"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-19T04:59:02Z",
+  "timestamp": "2020-04-19T15:15:02Z",
   "features": [
     {
       "type": "Feature",
@@ -320,6 +320,39 @@
         ]
       },
       "id": "node/4136241389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4232613001",
+        "addr:city": "Venezia",
+        "addr:housenumber": "1181",
+        "addr:postcode": "30121",
+        "addr:street": "Calle Ghetto Vecchio",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "youssef.safwat68@gmail.com",
+        "facebook": "https://www.facebook.com/Ristorante-Pizzeria-Al-Faro-462267337148944/",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Pizzeria Ristorante al Faro",
+        "opening_hours": "Lun-Dom 09:00-23:00",
+        "outdoor_seating": "yes",
+        "payment": "pagamento online",
+        "phone": "3394479523",
+        "toilets": "yes",
+        "website": "http://www.alfarovenezia.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3258977,
+          45.4450316
+        ]
+      },
+      "id": "node/4232613001"
     },
     {
       "type": "Feature",
@@ -1051,6 +1084,33 @@
         ]
       },
       "id": "node/5762154141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5909848485",
+        "addr:city": "Venezia",
+        "addr:housenumber": "4685",
+        "addr:postcode": "30124",
+        "addr:street": "Calle dei Fabbri",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@bistrotdevenise.com",
+        "facebook": "https://www.facebook.com/Bistrot-De-Venise-1685736095052244/",
+        "name": "Restaurant Bistrot de Venise",
+        "opening_hours": "Mo-Su 12:00-15:00, 19:00-23:30",
+        "phone": "39 041 523 66 51",
+        "website": "https://www.bistrotdevenise.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3366061,
+          45.435602
+        ]
+      },
+      "id": "node/5909848485"
     },
     {
       "type": "Feature",
@@ -3301,6 +3361,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7411269733",
+        "addr:city": "Venezia",
         "addr:housenumber": "4441/A",
         "addr:neighbourhood": "Cannaregio",
         "addr:postcode": "30123",
@@ -3608,6 +3669,29 @@
         ]
       },
       "id": "node/7417444356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7419044381",
+        "addr:city": "Venezia",
+        "addr:postcode": "30123",
+        "addr:street": "Fondamenta Toffetti",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "carto.gianola@libero.it",
+        "name": "Cartoleria Da Matteo",
+        "phone": "3465032866",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3264978,
+          45.4311647
+        ]
+      },
+      "id": "node/7419044381"
     }
   ]
 }

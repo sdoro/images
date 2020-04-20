@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-19T15:15:02Z",
+  "timestamp": "2020-04-20T14:48:02Z",
   "features": [
     {
       "type": "Feature",
@@ -27,6 +27,36 @@
         ]
       },
       "id": "node/567383537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1403411864",
+        "addr:city": "Venezia",
+        "addr:housenumber": "3272",
+        "addr:neighbourhood": "Cannaregio",
+        "addr:place": "Cannaregio",
+        "addr:postcode": "30121",
+        "addr:street": "Fondamenta de la Sensa",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "osterianicestellato@gmail.com",
+        "name": "Anice Stellato",
+        "name:en": "Anice Stellato",
+        "opening_hours": "We-Su 10:30-15:00, 18:30-00:00",
+        "phone": "+39 041 720744",
+        "website": "http://www.osterianicestellato.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3286539,
+          45.4463627
+        ]
+      },
+      "id": "node/1403411864"
     },
     {
       "type": "Feature",
@@ -109,6 +139,34 @@
         ]
       },
       "id": "node/2089190146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2165495950",
+        "addr:city": "Venezia",
+        "addr:housenumber": "3778",
+        "addr:postcode": "30123",
+        "addr:street": "Calle San Pantalon",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/estrovinoecucina/",
+        "name": "Estro - Vino e Cucina",
+        "name:it": "Estro - Vino e Cucina",
+        "opening_hours": "We-Mo,PH 12:00-23:00",
+        "phone": "041 476 4914",
+        "shop": "wine",
+        "website": "http://www estrovenezia.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3250595,
+          45.4360424
+        ]
+      },
+      "id": "node/2165495950"
     },
     {
       "type": "Feature",
@@ -1061,6 +1119,31 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5551909604",
+        "addr:city": "Venezia",
+        "addr:housenumber": "5781",
+        "addr:postcode": "30121",
+        "addr:street": "Salizada San Giovanni Grisostomo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "La maison de la crêpe",
+        "opening_hours": "Mo-Th 10:00-21:30; Fr 10:15-22:30; Sa 10:15-00:00; Su 10:15-22:00",
+        "phone": "+39 041 277 0565",
+        "website": "https://m.facebook.com/La-maison-de-la-crêpe-45063232139/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3370272,
+          45.4386436
+        ]
+      },
+      "id": "node/5551909604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5762154141",
         "addr:city": "Marghera",
         "addr:housenumber": "9L-M",
@@ -1093,14 +1176,13 @@
         "addr:housenumber": "4685",
         "addr:postcode": "30124",
         "addr:street": "Calle dei Fabbri",
-        "amenity": "restaurant",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "info@bistrotdevenise.com",
         "facebook": "https://www.facebook.com/Bistrot-De-Venise-1685736095052244/",
         "name": "Restaurant Bistrot de Venise",
         "opening_hours": "Mo-Su 12:00-15:00, 19:00-23:30",
-        "phone": "39 041 523 66 51",
+        "phone": "+39 041 523 66 51",
         "website": "https://www.bistrotdevenise.com"
       },
       "geometry": {
@@ -3400,7 +3482,7 @@
         "email": "azanin5@gmail.com",
         "facebook": "https://www.facebook.com/Il-caff%C3%A8-gelato-e-latelier-della-pizza-437505303077835/",
         "name": "il Caffegelato",
-        "phone": "3486516580;0415287598"
+        "phone": "348 651 6580;041 528 7598"
       },
       "geometry": {
         "type": "Point",
@@ -3655,10 +3737,11 @@
         "addr:street": "Via Sandro Gallo",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/itticatrevisan/",
         "name": "Pescheria da Leone",
         "opening_hours": "Su-Mo off  Tu-Sa 8:00-13:00",
         "payment:cash": "yes",
-        "phone": "338 441 2954",
+        "phone": "338 441 2954;3497849797",
         "shop": "seafood"
       },
       "geometry": {
@@ -3692,6 +3775,190 @@
         ]
       },
       "id": "node/7419044381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7419672624",
+        "addr:city": "Venezia",
+        "addr:housenumber": "5587",
+        "addr:postcode": "30121",
+        "addr:street": "Fondamenta Trapolin",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/bailosupermercati/",
+        "name": "Bailo Supermercati",
+        "opening_hours": "08:00-22:00",
+        "phone": "041 098 0223",
+        "shop": "supermarket",
+        "website": "https://bailo-supermercati.business.site/?utm_source=gmb&utm_medium=referral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3372204,
+          45.4397601
+        ]
+      },
+      "id": "node/7419672624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7419899212",
+        "addr:city": "Venezia",
+        "addr:housenumber": "1910",
+        "addr:postcode": "30135",
+        "addr:street": "Sestiere Santa Croce",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/FontegoDelleDolcezzeVenezia",
+        "name": "San Stae - Fontego delle Dolcezze",
+        "opening_hours": "Mo-Tu 12:30-20:00; We off; Th-Fr 12:30-20:00; Sa-Su 12:00-20:00",
+        "osm_id": "https://www.openstreetmap.org/changeset/83780459#map=19/45.44058/12.32960",
+        "phone": "041 721424",
+        "phone:delivery": "3405833254",
+        "shop": "ice_cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3295975,
+          45.4405757
+        ]
+      },
+      "id": "node/7419899212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7422246219",
+        "addr:city": "Venezia",
+        "addr:housenumber": "1783",
+        "addr:postcode": "30125",
+        "addr:street": "San Polo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "isolasnc@email.it",
+        "facebook": "https://www.facebook.com/busatosimone75/",
+        "name": "L'isola Di Busato Simone",
+        "phone": "0415243846",
+        "shop": "farm",
+        "telephone": "3939346238;393939552682",
+        "website": "https://www.ortofruttaisolavenezia.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3336234,
+          45.4399849
+        ]
+      },
+      "id": "node/7422246219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7422279808",
+        "addr:city": "Venezia",
+        "addr:housenumber": "4540",
+        "addr:postcode": "30122",
+        "addr:street": "castello",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "birreriaforst20xx@gmail.com",
+        "facebook": "https://www.facebook.com/Birreria-FORST-Venezia-Calle-delle-rasse-4540-354852461271556/",
+        "name": "La Birreria",
+        "opening_hours": "domenica 09:30–20 lunedì 09:30–20 lunedì 09:30–20 martedì 09:30–20 mercoledì 09:30–20 giovedì 09:30–20 venerdì 09:30–20 sabato 09:30–20",
+        "phone": "3404756548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3417552,
+          45.4345095
+        ]
+      },
+      "id": "node/7422279808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7424651657",
+        "addr:city": "Venezia",
+        "addr:facebook": "https://it-it.facebook.com/millevoglietarcisio/",
+        "addr:housenumber": "3033/3034",
+        "addr:opening hours": "10.00 am",
+        "addr:phone": "39 041 524 4667",
+        "addr:postcode": "30125",
+        "addr:street": "Salizada San Rocco",
+        "addr:website": "https://bit.ly/millevoglietarcisio",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "pizzeria/pasticceria MILLE VOGLIE 2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3257872,
+          45.436443
+        ]
+      },
+      "id": "node/7424651657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7425553826",
+        "addr:city": "Venezia",
+        "addr:housenumber": "53",
+        "addr:postcode": "30126",
+        "addr:street": "Via Sandro Gallo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "larabonfa@gmail.com",
+        "facebook": "https://www.facebook.com/itticatrevisan/",
+        "name": "Ittica Trevisan Manuel",
+        "opening_hours": "Tu-Sa 07:30-13:00",
+        "phone": "349 784 9797;3920897874",
+        "shop": "seafood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3670001,
+          45.4112801
+        ]
+      },
+      "id": "node/7425553826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7425835109",
+        "addr:city": "Venezia",
+        "addr:postcode": "30126",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/itticatrevisan/",
+        "name": "Pescheria da Leone",
+        "opening_hours": "Su-Mo off  Tu-Sa 8:00-13:00",
+        "payment:cash": "yes",
+        "phone": "338 441 2954;3920897874",
+        "shop": "seafood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3342809,
+          45.4398028
+        ]
+      },
+      "id": "node/7425835109"
     }
   ]
 }

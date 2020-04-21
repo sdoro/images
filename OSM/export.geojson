@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-20T14:48:02Z",
+  "timestamp": "2020-04-21T18:27:02Z",
   "features": [
     {
       "type": "Feature",
@@ -250,6 +250,62 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/2788543948",
+        "addr:city": "Venezia",
+        "addr:housenumber": "2141",
+        "addr:postcode": "30122",
+        "addr:street": "Riva San Biasio",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "aikobarbazza@hotmail.it",
+        "name": "Gelateria Il Pinguino",
+        "opening_hours": "lun-ven, 11-19; sab-dom, 11-19.30",
+        "outdoor_seating": "yes",
+        "phone": "+39 347 182 5331",
+        "phone_1": "+39 041 241 1395",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3503437,
+          45.4323029
+        ]
+      },
+      "id": "node/2788543948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2932666775",
+        "addr:city": "Venezia",
+        "addr:housenumber": "4357",
+        "addr:postcode": "30122",
+        "addr:street": "Campo Santi Filippo e Giacomo",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/aciugheta/",
+        "name": "Aciugheta",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "phone": "041 522 4292",
+        "website": "http://www.aciugheta.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3415091,
+          45.435175
+        ]
+      },
+      "id": "node/2932666775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3116780944",
         "addr:city": "Venezia",
         "addr:housenumber": "1037",
@@ -327,6 +383,62 @@
         ]
       },
       "id": "node/3415618494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3527984769",
+        "addr:city": "Venezia",
+        "addr:housenumber": "148",
+        "addr:neighbourhood": "Cannaregio",
+        "addr:place": "Cannaregio",
+        "addr:postcode": "30121",
+        "addr:street": "Rio Terà Lista di Spagna",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/qbquantobastavenezia/",
+        "name": "Quanto Basta",
+        "opening_hours": "24/7",
+        "phone": "041 524 2939",
+        "website": "http://www.quantobastavenezia.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3232589,
+          45.4420719
+        ]
+      },
+      "id": "node/3527984769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3623851090",
+        "addr:city": "Murano",
+        "addr:housenumber": "31",
+        "addr:postcode": "30141",
+        "addr:street": "Fondamenta Andrea Navagero",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/Trattoria-Valmarana-436816323063293/?utm_source=tripadvisor&utm_medium=referral",
+        "name": "Trattoria Valmarana",
+        "phone": "041 739313",
+        "phone:delivery": "3405833254",
+        "website": "https://trattoria-valmarana.business.site/?utm_source=gmb&utm_medium=referral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3573061,
+          45.4564218
+        ]
+      },
+      "id": "node/3623851090"
     },
     {
       "type": "Feature",
@@ -503,6 +615,33 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4241121791",
+        "addr:city": "Venezia",
+        "addr:housenumber": "3711",
+        "addr:postcode": "30124",
+        "addr:street": "Calle della Mandola",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "dadesanzua@gmail.com",
+        "facebook": "https://www.facebook.com/Pizzeria-LAngelo-158009690894595/",
+        "name": "Pizzeria L'Angelo",
+        "opening_hours": "Tu-Th 18:00-21.30; Fr-Su 18:00-22.00; Mo off",
+        "phone": "0412771126;3669566623",
+        "website": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3331847,
+          45.434939
+        ]
+      },
+      "id": "node/4241121791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4242822844",
         "addr:city": "Venezia",
         "addr:housenumber": "5793a",
@@ -645,6 +784,36 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4296545591",
+        "addr:city": "Venezia",
+        "addr:housenumber": "4509",
+        "addr:neighbourhood": "Castello",
+        "addr:postcode": "30122",
+        "addr:street": "Campo Santi Filippo e Giacomo",
+        "amenity": "restaurant",
+        "cuisine": "fine_dining",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@ilridotto.com",
+        "facebook": "https://www.facebook.com/ilridottorestaurant/",
+        "name": "Il Ridotto",
+        "opening_hours": "Mo-Su 12:00-13:45, 18.45-21-45. Wednesday closed.",
+        "phone": "+390415208280",
+        "website": "http://ilridotto.com",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3417144,
+          45.4351514
+        ]
+      },
+      "id": "node/4296545591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4320229195",
         "addr:city": "Venezia",
         "addr:housenumber": "2836",
@@ -719,6 +888,38 @@
         ]
       },
       "id": "node/4368513896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4492344893",
+        "addr:city": "Venezia",
+        "addr:housenumber": "2497",
+        "addr:neighbourhood": "Cannaregio",
+        "addr:place": "Cannaregio",
+        "addr:postcode": "30121",
+        "addr:street": "Fondamenta de la Misericordia",
+        "amenity": "bar",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@vinovero.it",
+        "facebook": "https://www.facebook.com/vino.vero.773",
+        "name": "Vino Vero",
+        "opening_hours": "Su-Th 12:00-00:00 Fr-Sa 12:00-01:00 Mo 18:00-00:00",
+        "payment:online_payment": "yes",
+        "phone": "3382822078",
+        "phone_1": "3492249630",
+        "telephone": "041 275 0044",
+        "website": "https://vinovero.wine/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3330905,
+          45.4440492
+        ]
+      },
+      "id": "node/4492344893"
     },
     {
       "type": "Feature",
@@ -932,6 +1133,33 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4818846923",
+        "addr:city": "Lido do Venezia",
+        "addr:housenumber": "61",
+        "addr:postcode": "30126",
+        "addr:street": "Gran Viale Santa Maria Elisabetta",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "\"Attivazione servizio a domicilio di generi di prima necessità per COVID-19\"",
+        "email": "buzatu.robert9@gmail.com",
+        "name": "Gelateria Da Tita",
+        "opening_hours": "lunedì 08–00; martedì Chiuso; mercoledì 08–00; giovedì 08–00; venerdì 08–00; sabato 08–00; L'orario può variare domenica 08–00",
+        "phone": "3517444747;0414580007",
+        "shop": "ice_cream",
+        "source:date": "2017",
+        "website": "https://da-tita.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3739482,
+          45.4155308
+        ]
+      },
+      "id": "node/4818846923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4819973319",
         "addr:city": "Venezia",
         "addr:housenumber": "5065/D",
@@ -983,6 +1211,32 @@
         ]
       },
       "id": "node/4826653441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4851781726",
+        "addr:city": "Venezia",
+        "addr:housenumber": "1411-1412",
+        "addr:postcode": "30125",
+        "addr:street": "Campiello dei Meloni",
+        "amenity": "fast_food",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/pg/Acqua-Mais-473661569381047/about/",
+        "name": "Acqua e mais",
+        "phone": "0412960530",
+        "website": "http://www.acquaemais.eu/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3313514,
+          45.4373236
+        ]
+      },
+      "id": "node/4851781726"
     },
     {
       "type": "Feature",
@@ -1115,6 +1369,35 @@
         ]
       },
       "id": "node/5224438169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5451326623",
+        "addr:city": "Venezia",
+        "addr:housenumber": "2863",
+        "addr:postcode": "30100",
+        "addr:street": "Campo San Tomà",
+        "amenity": "bar",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/basegovenezia/",
+        "internet_access": "wlan",
+        "name": "Basego",
+        "opening_hours": "Mo-Su 11:00-22:30",
+        "phone": "3384896666",
+        "phone_1": "3386264100",
+        "website": "https://www.basego.it/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3271463,
+          45.4360535
+        ]
+      },
+      "id": "node/5451326623"
     },
     {
       "type": "Feature",
@@ -3730,32 +4013,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7417444356",
-        "addr:city": "Venezia",
-        "addr:housenumber": "149/151",
-        "addr:postcode": "30126",
-        "addr:street": "Via Sandro Gallo",
-        "delivery:covid19": "yes",
-        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
-        "facebook": "https://www.facebook.com/itticatrevisan/",
-        "name": "Pescheria da Leone",
-        "opening_hours": "Su-Mo off  Tu-Sa 8:00-13:00",
-        "payment:cash": "yes",
-        "phone": "338 441 2954;3497849797",
-        "shop": "seafood"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.3621006,
-          45.4022805
-        ]
-      },
-      "id": "node/7417444356"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7419044381",
         "addr:city": "Venezia",
         "addr:postcode": "30123",
@@ -3816,16 +4073,14 @@
         "facebook": "https://it-it.facebook.com/FontegoDelleDolcezzeVenezia",
         "name": "San Stae - Fontego delle Dolcezze",
         "opening_hours": "Mo-Tu 12:30-20:00; We off; Th-Fr 12:30-20:00; Sa-Su 12:00-20:00",
-        "osm_id": "https://www.openstreetmap.org/changeset/83780459#map=19/45.44058/12.32960",
         "phone": "041 721424",
-        "phone:delivery": "3405833254",
-        "shop": "ice_cream"
+        "phone:delivery": "3405833254"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3295975,
-          45.4405757
+          12.3295841,
+          45.440572
         ]
       },
       "id": "node/7419899212"
@@ -3889,17 +4144,15 @@
       "properties": {
         "@id": "node/7424651657",
         "addr:city": "Venezia",
-        "addr:facebook": "https://it-it.facebook.com/millevoglietarcisio/",
         "addr:housenumber": "3033/3034",
-        "addr:opening hours": "10.00 am",
-        "addr:phone": "39 041 524 4667",
         "addr:postcode": "30125",
         "addr:street": "Salizada San Rocco",
-        "addr:website": "https://bit.ly/millevoglietarcisio",
         "amenity": "ice_cream",
+        "contact:facebook": "millevoglietarcisio",
+        "contact:phone": "39 041 524 4667",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
-        "name": "pizzeria/pasticceria MILLE VOGLIE 2.0"
+        "website": "https://bit.ly/millevoglietarcisio"
       },
       "geometry": {
         "type": "Point",
@@ -3959,6 +4212,208 @@
         ]
       },
       "id": "node/7425835109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7428734845",
+        "addr:city": "Malcontenta",
+        "addr:housenumber": "77/A",
+        "addr:postcode": "30176",
+        "addr:street": "Via della Stazione",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Panificio Trevisiol",
+        "phone": "041 698 369",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1965756,
+          45.4425086
+        ]
+      },
+      "id": "node/7428734845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7428792679",
+        "addr:city": "Murano",
+        "addr:housenumber": "18",
+        "addr:postcode": "30141",
+        "addr:street": "Calle da Mistro",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "murano.gelateria@gmail.com",
+        "facebook": "https://m.facebook.com/muranogelateria/",
+        "name": "Murano di Penso Riccardo Gelateria Artigianale",
+        "phone": "3343993360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3538122,
+          45.4570839
+        ]
+      },
+      "id": "node/7428792679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7429137219",
+        "addr:city": "Venezia",
+        "addr:housenumber": "9",
+        "addr:postcode": "30135",
+        "addr:street": "isola nova del tronchetto",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@rialtofrutta.com",
+        "facebook": "https://www.facebook.com/rialtofrutta",
+        "name": "Rialtofrutta Srl",
+        "opening_hours": "lun.-ven. 02-18     sab. 00-14     dom. chiuso",
+        "payment:online_payment": "yes",
+        "phone": "3663169582",
+        "shop": "greengrocer",
+        "website": "https://www.rialtofrutta.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3092789,
+          45.4419428
+        ]
+      },
+      "id": "node/7429137219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7429421486",
+        "addr:city": "Venezia",
+        "addr:country": "IT",
+        "addr:housenumber": "119",
+        "addr:place": "Lido di Venezia",
+        "addr:street": "Via Sandro Gallo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "pontedelpistor@gmail.com",
+        "facebook": "https://it-it.facebook.com/pages/category/Dessert-Shop/Larte-della-pasticceria-Lido-1993726427593755/",
+        "name": "L'arte Della Pasticceria",
+        "phone": "3276861204 - 041 276 1191",
+        "shop": "confectionery",
+        "website": "https://www.paginebianche.it/lido-di-venezia/pasticceria-arte-pasticceria.12267080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3648062,
+          45.4062246
+        ]
+      },
+      "id": "node/7429421486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7430193412",
+        "addr:city": "Venezia",
+        "addr:housenumber": "1562",
+        "addr:street": "Riva de Biasio",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "bianchidolcevenezia@gmail.com",
+        "facebook": "Facebook: \"Bianchi Dolce Vineria\"",
+        "name": "Dolce Bianchi Venezia",
+        "phone": "3534038812",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3256162,
+          45.44184
+        ]
+      },
+      "id": "node/7430193412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7430402899",
+        "addr:city": "Scorzè",
+        "addr:housenumber": "20/D",
+        "addr:postcode": "30037",
+        "addr:street": "Via Padova",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "smscorze@libero.it",
+        "facebook": "https://www.facebook.com/Colorificio-San-Marco-Scorz%C3%A8-100872004897774/",
+        "name": "San Marco Scorzé",
+        "phone": "3478727782",
+        "shop": "paint",
+        "telephone": "0415841329",
+        "website": "http://www.sanmarcoscorze.it/?fbclid=IwAR3t1y-qxQYOcNxCT8cmWxT1lAKgnQzXRRi_TwCtmEbW6_c9MqSr-nfmmhw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.107213,
+          45.5683585
+        ]
+      },
+      "id": "node/7430402899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7430731044",
+        "addr:city": "Venezia",
+        "addr:housenumber": "120",
+        "addr:postcode": "30100",
+        "addr:street": "Rio Terà Lista di Spagna",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/Gelato-Artigianale-Il-Golosone-Venezia-108202670827600/?fref=tag",
+        "name": "Il Golosone",
+        "opening_hours": "Mo-Su 10:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3226967,
+          45.4416613
+        ]
+      },
+      "id": "node/7430731044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7431082094",
+        "addr:city": "Venezia",
+        "addr:housenumber": "518",
+        "addr:street": "San Polo",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Trattoria Rialto Novo",
+        "opening_hours": "Mo-Su 09:30-23:00",
+        "phone": "041 523 5774",
+        "website": "trattoriarialtonovo.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3349087,
+          45.4383797
+        ]
+      },
+      "id": "node/7431082094"
     }
   ]
 }

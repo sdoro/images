@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-21T18:27:02Z",
+  "timestamp": "2020-04-22T05:48:02Z",
   "features": [
     {
       "type": "Feature",
@@ -151,6 +151,7 @@
         "amenity": "restaurant",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "estro.enoteca@gmail.com",
         "facebook": "https://it-it.facebook.com/estrovinoecucina/",
         "name": "Estro - Vino e Cucina",
         "name:it": "Estro - Vino e Cucina",
@@ -2555,6 +2556,7 @@
         "addr:street": "Via Cappuccina",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@madstore.org",
         "name": "Mad Sport",
         "opening_hours": "Mo-Su 09:00-21:30",
         "phone": "041 955384",
@@ -4013,6 +4015,32 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7417444356",
+        "addr:city": "Venezia",
+        "addr:housenumber": "149/151",
+        "addr:postcode": "30126",
+        "addr:street": "Via Sandro Gallo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/itticatrevisan/",
+        "name": "Pescheria da Leone",
+        "opening_hours": "Su-Mo off  Tu-Sa 8:00-13:00",
+        "payment:cash": "yes",
+        "phone": "338 441 2954;3497849797",
+        "shop": "seafood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3621006,
+          45.4022805
+        ]
+      },
+      "id": "node/7417444356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7419044381",
         "addr:city": "Venezia",
         "addr:postcode": "30123",
@@ -4216,6 +4244,31 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7426300856",
+        "addr:housenumber": "61",
+        "addr:street": "Lungomare Guglielmo Marconi",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "pizzeriamiramare@libero.it",
+        "facebook": "https://it-it.facebook.com/pages/category/Pizza-Place/Ristorante-Pizzeria-Miramare-213142042153763/",
+        "name": "Pizzeria Miramare",
+        "phone": "041 526 0709",
+        "website": "https://www.pizzeriamiramare.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3633914,
+          45.4003889
+        ]
+      },
+      "id": "node/7426300856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7428734845",
         "addr:city": "Malcontenta",
         "addr:housenumber": "77/A",
@@ -4356,13 +4409,13 @@
         "phone": "3478727782",
         "shop": "paint",
         "telephone": "0415841329",
-        "website": "http://www.sanmarcoscorze.it/?fbclid=IwAR3t1y-qxQYOcNxCT8cmWxT1lAKgnQzXRRi_TwCtmEbW6_c9MqSr-nfmmhw"
+        "website": "http://www.sanmarcoscorze.it"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.107213,
-          45.5683585
+          12.1043106,
+          45.5683516
         ]
       },
       "id": "node/7430402899"
@@ -4414,6 +4467,82 @@
         ]
       },
       "id": "node/7431082094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7431125249",
+        "addr:city": "Venezia",
+        "addr:housenumber": "1911",
+        "addr:postcode": "30125",
+        "addr:street": "Rio Terà de le Carampane",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Trattoria Antiche Carampane",
+        "phone": "+39 041 5240165",
+        "website": "https://www.antichecarampane.com/en/storia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3310929,
+          45.4386719
+        ]
+      },
+      "id": "node/7431125249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7431188314",
+        "addr:city": "Lido do Venezia",
+        "addr:housenumber": "47G",
+        "addr:postcode": "30126",
+        "addr:street": "Gran Viale Santa Maria Elisabetta",
+        "amenity": "ice_cream",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "magichevoglie@gmail.com",
+        "facebook": "https://it-it.facebook.com/pages/category/Gelato-Shop/Gelateria-Le-Magiche-Voglie-593068184059553/",
+        "name": "Gelateria Le Magiche Voglie",
+        "opening_hours": "Mo-Su 15 - 19",
+        "outdoor_seating": "no",
+        "phone": "0415260254",
+        "website": "https://www.tripadvisor.it/Restaurant_Review-g3547567-d7010245-Reviews-Gelateria_le_Magiche_Voglie-Lido_di_Venezia_Veneto.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3713812,
+          45.4163505
+        ]
+      },
+      "id": "node/7431188314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7431261744",
+        "addr:city": "Venezia",
+        "addr:housenumber": "2259/A",
+        "addr:postcode": "30135",
+        "addr:street": "calle regina",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@reginasconta.it",
+        "facebook": "https://www.facebook.com/reginasconta",
+        "name": "Ristorante Regina Sconta",
+        "phone": "0415243858;3477168544"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3313052,
+          45.4399003
+        ]
+      },
+      "id": "node/7431261744"
     }
   ]
 }

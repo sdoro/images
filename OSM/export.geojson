@@ -2,8 +2,37 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-23T05:59:02Z",
+  "timestamp": "2020-04-23T18:26:02Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/508932689",
+        "addr:city": "Scorzè",
+        "addr:housenumber": "152",
+        "addr:postcode": "30037",
+        "addr:street": "Via Moglianese Gardigiano",
+        "contact:instagram": "https://www.instagram.com/officinegiusto/",
+        "contact:twitter": "https://twitter.com/GiustoOfficine",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "o.giusto@virgilio.it",
+        "facebook": "https://www.facebook.com/officinegiusto/",
+        "name": "Officine Giusto Srl",
+        "payment:online_payment": "yes",
+        "phone": "041 449003",
+        "shop": "car_repair",
+        "website": "http://www.officinegiusto.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1997467,
+          45.5645138
+        ]
+      },
+      "id": "node/508932689"
+    },
     {
       "type": "Feature",
       "properties": {
@@ -331,6 +360,32 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3016775613",
+        "addr:city": "Murano",
+        "addr:housenumber": "67",
+        "addr:postcode": "30141",
+        "addr:street": "Fondamenta Danile Manin",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "tan2@yahoo.com",
+        "facebook": "https://www.facebook.com/Da-Tanduo-1556890197888806/",
+        "name": "Da Tanduo",
+        "opening_hours": "Mo-Su 7.15-19",
+        "phone": "041739310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3526121,
+          45.4540009
+        ]
+      },
+      "id": "node/3016775613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3116780944",
         "addr:city": "Venezia",
         "addr:housenumber": "1037",
@@ -464,6 +519,35 @@
         ]
       },
       "id": "node/3623851090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3884049421",
+        "addr:city": "Venezia",
+        "addr:housenumber": "4310",
+        "addr:neighbourhood": "Cannaregio",
+        "addr:postcode": "30121",
+        "addr:street": "Strada Nova",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "giorgia.95.p@hotmail.it",
+        "facebook": "https://www.facebook.com/PasticceriaMartiniDiPalombella/",
+        "name": "Pasticceria Martini di Palombella Lorenzo",
+        "opening_hours": "We-Mo 07:00-20:30 Tu off",
+        "phone": "3478506919;0415227287",
+        "ref:vatin": "IT03045650276",
+        "shop": "pastry",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3353719,
+          45.4407753
+        ]
+      },
+      "id": "node/3884049421"
     },
     {
       "type": "Feature",
@@ -1693,6 +1777,32 @@
         ]
       },
       "id": "node/7019041445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7137741885",
+        "addr:city": "Venezia",
+        "addr:housenumber": "2/G",
+        "addr:postcode": "30126",
+        "addr:street": "Via M. Bragadin",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@testinformatica.it",
+        "name": "Test Informatica",
+        "opening_hours": "lunedì-venerdì 15:45-18:30",
+        "phone": "+39 339 426384",
+        "shop": "computer",
+        "website": "http://www.testinformatica.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3680127,
+          45.4131088
+        ]
+      },
+      "id": "node/7137741885"
     },
     {
       "type": "Feature",
@@ -3245,11 +3355,13 @@
       "properties": {
         "@id": "node/7384875312",
         "addr:city": "Venezia",
+        "addr:housenumber": "3",
         "addr:postcode": "30100",
         "addr:street": "corte dei Pali",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "info@iesfarm.it",
+        "facebook": "https://www.facebook.com/iesfarm/",
         "name": "I&s Farm Il Biologico Di Sant'Erasmo",
         "opening_hours:covid19": "Mo-Fr 8:30-13:30,16:00-19:30; Sa 8:30,13:30",
         "phone": "3393640736",
@@ -3950,8 +4062,10 @@
         "amenity": "cafe",
         "delivery": "covid19=yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "ilbuongusto5555@gmail.com",
         "name": "IL BUONGUSTO",
         "opening_hours": "lun-Sab:10.00-13.30 , domenica chiuso",
+        "phone": "3492257786",
         "website": "il-buongusto.business.site"
       },
       "geometry": {
@@ -4780,6 +4894,188 @@
         ]
       },
       "id": "node/7435522005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7437176230",
+        "addr:city": "Venezia",
+        "addr:housenumber": "29/A",
+        "addr:street": "Via Malamocco",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "zane.m@tiscali.it",
+        "name": "Ottica Manin",
+        "opening_hours": "Tu-Sa 10:00-12:30",
+        "payment:online_payment": "yes",
+        "phone": "041985959;+39 3391388309",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3471884,
+          45.3833816
+        ]
+      },
+      "id": "node/7437176230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7437220613",
+        "addr:city": "Venezia",
+        "addr:housenumber": "55",
+        "addr:postcode": "30133",
+        "addr:street": "Calle Michelangelo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "pasticceriastellasnc@pec.it",
+        "facebook": "https://www.facebook.com/Pasticceria-Stella-943291399054191/",
+        "name": "Pasticceria Stella - Bar & Caffetteria",
+        "phone": "3477929438;3408602177;0412771136",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3379625,
+          45.4259302
+        ]
+      },
+      "id": "node/7437220613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7437846699",
+        "addr:city": "LIDO VE",
+        "addr:housenumber": "171/b",
+        "addr:postcode": "30126",
+        "addr:street": "VIA S. GALLO 171/b",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Gastronomia Malvestio di Paola e Roberto",
+        "opening_hours": "Tu-Sa 8.00-21:00",
+        "phone": "041 526 1268;335 6463 373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3591566,
+          45.3986546
+        ]
+      },
+      "id": "node/7437846699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7438582823",
+        "addr:city": "Venezia",
+        "addr:housenumber": "24",
+        "addr:postcode": "30132",
+        "addr:street": "Calle Generale Antonio Chinotto",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "osteria.pampo@gmail.com",
+        "facebook": "https://www.facebook.com/osteriadapampo/",
+        "name": "Osteria da Pampo",
+        "opening_hours": "Mo-Su 12:00-14:30     Mo-Su 18:30-22:00",
+        "phone": "0415208419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3608783,
+          45.4273863
+        ]
+      },
+      "id": "node/7438582823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7438756610",
+        "addr:city": "Arino",
+        "addr:housenumber": "2",
+        "addr:postcode": "30031",
+        "addr:street": "Via I Maggio",
+        "addr:unit": "1",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@horecabrenta.it",
+        "facebook": "https://www.facebook.com/horecabrenta/",
+        "name": "Horeca Brenta",
+        "opening_hours": "giovedì 08:30–12:30 14–18:30; venerdì 08:30–12:30 14–18:30  sabato (Anniversario della liberazione d'Italia) 08:30–12:30 L'orario può variare",
+        "phone": "041 510 2386",
+        "phone2": "0415134993",
+        "shop": "supermarket",
+        "site_name": "http://www.horecabrenta.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0638,
+          45.441241
+        ]
+      },
+      "id": "node/7438756610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7438813387",
+        "addr:city": "Venezia",
+        "addr:housenumber": "53A",
+        "addr:postcode": "30135",
+        "addr:street": "S.Croce",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "artedesign.ve@libero.it",
+        "name": "A.d. Arte & Design Snc",
+        "payment:online_payment": "yes",
+        "phone": "3285461536",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.324142,
+          45.4358425
+        ]
+      },
+      "id": "node/7438813387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7438929973",
+        "addr:city": "Murano",
+        "addr:housenumber": "48",
+        "addr:postcode": "30141",
+        "addr:street": "Fondamenta Manin",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@acquastanca.it",
+        "facebook": "https://www.facebook.com/AcquaStanca?ref=tn_tnmn",
+        "name": "Osteria Acquastanca",
+        "opening_hours": "Mo-Sa 10:00-16:00",
+        "phone": "3488104116;3484105626",
+        "website": "http://www.acquastanca.it/homepage/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3519759,
+          45.4534478
+        ]
+      },
+      "id": "node/7438929973"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-22T05:48:02Z",
+  "timestamp": "2020-04-23T05:59:02Z",
   "features": [
     {
       "type": "Feature",
@@ -124,6 +124,7 @@
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "diet:gluten_free": "yes",
+        "email": "http://www.gelatofantasy.it/",
         "facebook": "https://www.facebook.com/gelatofantasy/",
         "name": "Gelato Fantasy S.r.l",
         "note": "Gluten free ice cream, in plastic cups, no gluten free wafers.",
@@ -303,6 +304,29 @@
         ]
       },
       "id": "node/2932666775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3007152074",
+        "addr:city": "Lido do Venezia",
+        "addr:housenumber": "18",
+        "addr:postcode": "30126",
+        "addr:street": "Gran Viale Santa Maria Elisabetta",
+        "amenity": "cafe",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Rizzo Gran Viale",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3706826,
+          45.4161878
+        ]
+      },
+      "id": "node/3007152074"
     },
     {
       "type": "Feature",
@@ -1588,6 +1612,31 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6855524980",
+        "addr:city": "Venezia",
+        "addr:country": "IT",
+        "addr:housenumber": "2604",
+        "addr:postcode": "30125",
+        "addr:street": "San Polo",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "=Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Muro Frari",
+        "outdoor_seating": "yes",
+        "phone": "041 524 5310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3277441,
+          45.436973
+        ]
+      },
+      "id": "node/6855524980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6855547379",
         "addr:city": "Venezia",
         "addr:country": "IT",
@@ -1616,6 +1665,34 @@
         ]
       },
       "id": "node/6855547379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7019041445",
+        "addr:city": "Venezia",
+        "addr:housenumber": "2910",
+        "addr:postcode": "30122",
+        "addr:street": "Salizada santa giustina Castello,",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "ortis1914@libero.it",
+        "facebook": "https://m.facebook.com/pages/category/Specialty-Grocery-Store/Gastronomia-Ortis-165037367227372/?locale2=it_IT",
+        "name": "Eredi Ortis Pietro Sas",
+        "opening_hours": "Mo, Tu, Th, Fr 16:30-19:30, We 7:30-13:00, Sa 7:30-13:00, 16:30-19:30",
+        "phone": "0415208497",
+        "shop": "convenience",
+        "source": "https://www.comune.venezia.it/it/content/attivit-commerciali-consegna-beni-e-alimenti-domicilio;https://gastronomiaortisdal1914.business.site/",
+        "website": "https://gastronomiaortisdal1914.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3465114,
+          45.4373699
+        ]
+      },
+      "id": "node/7019041445"
     },
     {
       "type": "Feature",
@@ -2323,6 +2400,7 @@
         "addr:street": "Via Daniele Manin",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/NaturhouseMestre/",
         "name": "NaturHouse Carpenedo",
         "operator": "NaturHouse",
         "phone": "041 972819",
@@ -2348,6 +2426,8 @@
         "addr:street": "Corso del Popolo",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@fiorerialarosarossa.it",
+        "fax": "041 95 89 63",
         "name": "La Rosa Rossa",
         "opening_hours": "09–12 15:30–18",
         "phone": "041 958611",
@@ -3296,6 +3376,7 @@
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "info@dm1973.it",
+        "facebook": "https://www.facebook.com/dolciariamestrina/",
         "name": "La Dolciaria Mestrina Dal 1973 Srl",
         "opening_hours": "Mo-Fr 00–13, 15–18:30 Sa 00–18:30 Su 00–12:30",
         "phone": "+39 041980372",
@@ -4283,8 +4364,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.1965756,
-          45.4425086
+          12.1964254,
+          45.4426441
         ]
       },
       "id": "node/7428734845"
@@ -4431,9 +4512,11 @@
         "amenity": "ice_cream",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "gestioni32@legalmail.it",
         "facebook": "https://www.facebook.com/Gelato-Artigianale-Il-Golosone-Venezia-108202670827600/?fref=tag",
         "name": "Il Golosone",
-        "opening_hours": "Mo-Su 10:00-01:00"
+        "opening_hours": "Mo-Su 10:00-01:00",
+        "phone": "3497518958"
       },
       "geometry": {
         "type": "Point",
@@ -4543,6 +4626,160 @@
         ]
       },
       "id": "node/7431261744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7434053548",
+        "addr:city": "Dolo",
+        "addr:housenumber": "48",
+        "addr:postcode": "30031",
+        "addr:street": "Via Badoera",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "ordini@fattoretto.com",
+        "facebook": "https://www.facebook.com/Fattoretto-Luigino-srl",
+        "name": "Fattoretto Luigino Srl",
+        "opening_hours": "Mo-Fr 08:00-12:00 Mo-Fr 14:00-18:00",
+        "phone": "041 410113",
+        "shop": "beverages",
+        "website": "http://www.fattoretto.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0956238,
+          45.4234974
+        ]
+      },
+      "id": "node/7434053548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7434261007",
+        "addr:city": "Venezia",
+        "addr:housenumber": "1415",
+        "addr:street": "Rio Terà Farsetti",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "ortofruttascarpa@gmail.com",
+        "facebook": "https://www.facebook.com/marcoenicoloortofrutta",
+        "name": "Marco E Nicolò Ortofrutta",
+        "opening_hours": "Mo-Sa 07:30-19:30 Su off",
+        "phone": "0413091524;3465015414",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3286715,
+          45.4442896
+        ]
+      },
+      "id": "node/7434261007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7434532479",
+        "addr:city": "Malcontenta",
+        "addr:housenumber": "6",
+        "addr:postcode": "30176",
+        "addr:street": "Via della Stazione",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/pages/category/Bakery/Panificio-Ae-Tre-Ciopete-2189625274628400/",
+        "name": "Antico Forner Ae Tre Ciopete",
+        "opening_hours": "Mo-Sa 05:00-19:30",
+        "phone": "041698983",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.204006,
+          45.4362236
+        ]
+      },
+      "id": "node/7434532479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7434657448",
+        "addr:city": "Venezia",
+        "addr:housenumber": "149",
+        "addr:postcode": "30126",
+        "addr:street": "Via Sandro Gallo",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://it-it.facebook.com/fotosegantinzambon/",
+        "name": "Segantin & Zambon S.A.S.",
+        "opening_hours": "Mo-Sa 09:00-13:00/ 15:30-19 (Tue 9:00-13:00)",
+        "phone": "041 526 0281",
+        "website": "segantinzambon.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3620564,
+          45.4025738
+        ]
+      },
+      "id": "node/7434657448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7435150901",
+        "addr:city": "Venezia",
+        "addr:housenumber": "414",
+        "addr:postcode": "30125",
+        "addr:street": "Sotoportego Del Do Mori",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "baccalaveneto@gmail.com",
+        "facebook": "https://www.facebook.com/baccalaveneto/",
+        "name": "Baccalà Veneto",
+        "opening_hours": "Mo-Sa 09:30-16:00, Su off",
+        "phone": "0414763571, 3498552112",
+        "website": "https://www.baccala-veneto.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3341454,
+          45.4388028
+        ]
+      },
+      "id": "node/7435150901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7435522005",
+        "addr:city": "Venezia",
+        "addr:housenumber": "4676",
+        "addr:postcode": "30124",
+        "addr:street": "Calle dei Fabbri",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "macelleriabec@libero.it",
+        "name": "Caroldi e Bressanello",
+        "opening_hours": "Mo-Sa 07:00-13:00",
+        "phone": "0415230547",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3361649,
+          45.435703
+        ]
+      },
+      "id": "node/7435522005"
     }
   ]
 }

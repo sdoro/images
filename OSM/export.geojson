@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-23T18:26:02Z",
+  "timestamp": "2020-04-25T10:50:03Z",
   "features": [
     {
       "type": "Feature",
@@ -56,6 +56,35 @@
         ]
       },
       "id": "node/567383537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1026529493",
+        "addr:city": "Mestre",
+        "addr:housenumber": "21",
+        "addr:postcode": "30174",
+        "addr:street": "Via Giorgio Ferro",
+        "amenity": "restaurant",
+        "cuisine": "osteria",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@osterialuponero.it",
+        "facebook": "https://www.facebook.com/osterialuponero",
+        "name": "Osteria del Lupo Nero",
+        "opening_hours": "lun-ven 12.00-14.30, 18.30-22.30; sab, dom e festivi 11.30-14.30, 18.30-22.30",
+        "phone": "041961180",
+        "website": "http://www.osterialuponero.it",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2405315,
+          45.494271
+        ]
+      },
+      "id": "node/1026529493"
     },
     {
       "type": "Feature",
@@ -1001,6 +1030,32 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4449378072",
+        "addr:city": "Venezia",
+        "addr:housenumber": "5043",
+        "addr:neighbourhood": "Cannaregio",
+        "addr:place": "Cannaregio",
+        "addr:postcode": "30121",
+        "addr:street": "Fondamente Nove",
+        "amenity": "bar",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "barcupidove",
+        "name": "Bar Cupido Bistrot",
+        "phone": "041 523 5687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3408018,
+          45.4428839
+        ]
+      },
+      "id": "node/4449378072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4492344893",
         "addr:city": "Venezia",
         "addr:housenumber": "2497",
@@ -1777,6 +1832,33 @@
         ]
       },
       "id": "node/7019041445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7112133185",
+        "addr:city": "Venezia",
+        "addr:housenumber": "4426",
+        "addr:postcode": "30121",
+        "addr:street": "Calle de l'Oca",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@osteriadariccardo.com",
+        "facebook": "https://www.facebook.com/osteriadariccardo/",
+        "name": "Osteria contemporanea da Riccardo",
+        "opening_hours": "Th-Su 11:00-15:30; 18:00-23:30",
+        "phone": "041 241 2731",
+        "website": "https://www.osteriadariccardo.com/it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3361038,
+          45.4407172
+        ]
+      },
+      "id": "node/7112133185"
     },
     {
       "type": "Feature",
@@ -4293,10 +4375,11 @@
         "amenity": "ice_cream",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
-        "facebook": "https://it-it.facebook.com/FontegoDelleDolcezzeVenezia",
+        "email": "info@gelateriasanstae.it",
+        "facebook": "https://m.facebook.com/FontegoDelleDolcezzeVenezia/?locale2=it_IT",
         "name": "San Stae - Fontego delle Dolcezze",
         "opening_hours": "Mo-Tu 12:30-20:00; We off; Th-Fr 12:30-20:00; Sa-Su 12:00-20:00",
-        "phone": "041 721424",
+        "phone": "3475824105",
         "phone:delivery": "3405833254"
       },
       "geometry": {
@@ -5076,6 +5159,133 @@
         ]
       },
       "id": "node/7438929973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7439368623",
+        "addr:city": "Venezia",
+        "addr:housenumber": "1725",
+        "addr:postcode": "30125",
+        "addr:street": "SAN POLO",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "cartoleriasancassiano@hotmail.it",
+        "facebook": "https://it-it.facebook.com/cartoleriasancassiano/",
+        "name": "Cartoleria San Cassiano  Sas",
+        "opening_hours": "Lun-Dom 8:30-13, 15:30-18",
+        "phone": "0418943085",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3322771,
+          45.4395344
+        ]
+      },
+      "id": "node/7439368623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7441569025",
+        "addr:city": "Murano",
+        "addr:housenumber": "27",
+        "addr:postcode": "30141",
+        "addr:street": "Fondamenta Lorenzo Radi",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "trattoriavalmaranamurano@gmail.com",
+        "facebook": "https://www.facebook.com/trattoriavalmaranamurano/",
+        "name": "Trattoria Valmarana",
+        "phone": "3495056710;3463619852"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3603731,
+          45.4596052
+        ]
+      },
+      "id": "node/7441569025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7441908115",
+        "addr:city": "Venezia",
+        "addr:housenumber": "3117/a",
+        "addr:street": "dorsoduro",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/dipolvenezia/",
+        "gmail": "dipolferramenta@gmail.com",
+        "name": "Di Pol Centrocasa",
+        "opening_hours": "08:30 - 13:00, 15:00 - 18:30",
+        "phone": "0415232675",
+        "shop": "hardware",
+        "sito web": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3243836,
+          45.4338729
+        ]
+      },
+      "id": "node/7441908115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7442255541",
+        "addr:city": "Marghera",
+        "addr:housenumber": "45/A",
+        "addr:postcode": "30175",
+        "addr:street": "Piazza del Mercato",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "facebook": "https://www.facebook.com/rosticceriabottazzo/",
+        "name": "Rosticceria Fratelli Bottazzo",
+        "opening_hours": "Mo-Su 11:00-13:00/17:00-19:30",
+        "phone": "041920249;3476109942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2238964,
+          45.4750205
+        ]
+      },
+      "id": "node/7442255541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7444546162",
+        "addr:city": "Venezia",
+        "addr:housenumber": "445",
+        "addr:postcode": "30133",
+        "addr:street": "Fondamenta Sant'Eufemia",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Macelleria Fiore Da Renata",
+        "opening_hours": "Mo-Sa 08:00-13:00",
+        "phone": "041 523 2147",
+        "shop": "butcher",
+        "website": "https://macelleria-fiore-da-renata.business.site/?utm_source=gmb&utm_medium=referral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3265448,
+          45.4263468
+        ]
+      },
+      "id": "node/7444546162"
     }
   ]
 }

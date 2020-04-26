@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-25T10:50:03Z",
+  "timestamp": "2020-04-26T18:08:02Z",
   "features": [
     {
       "type": "Feature",
@@ -56,6 +56,28 @@
         ]
       },
       "id": "node/567383537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/762194309",
+        "addr:city": "Venezia",
+        "addr:postcode": "30136",
+        "addr:street": "Calle del Megio",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Ferramenta al Megio",
+        "phone": "0415241225;3498789447",
+        "shop": "hardware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.328534,
+          45.44095
+        ]
+      },
+      "id": "node/762194309"
     },
     {
       "type": "Feature",
@@ -1889,28 +1911,30 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7223029955",
-        "addr:city": "Spinea",
-        "addr:housenumber": "1",
-        "addr:postcode": "30038",
-        "addr:street": "Via Vittorio Alfieri",
+        "@id": "node/7206356652",
+        "addr:city": "Marghera",
+        "addr:housenumber": "17",
+        "addr:postcode": "30175",
+        "addr:street": "Via della Sortita",
         "amenity": "restaurant",
-        "cuisine": "pizza",
+        "cuisine": "regional;italian",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
-        "facebook": "https://www.facebook.com/Apollolapizza/",
-        "name": "Apollo la Pizza",
-        "opening_hours": "Mo-Su 11-14, 18-22:30",
-        "phone": "+39 041 476 2269"
+        "facebook": "https://www.facebook.com/osteria.aldiplomatico",
+        "name": "Al diplomatico",
+        "opening_hours": "Mo-Sa 08:00-23:00",
+        "outdoor_seating": "no",
+        "phone": "338 870 6955",
+        "website": "https://www.osterialdiplomatico.com/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.1697742,
-          45.4897053
+          12.2231837,
+          45.4776899
         ]
       },
-      "id": "node/7223029955"
+      "id": "node/7206356652"
     },
     {
       "type": "Feature",
@@ -2446,7 +2470,8 @@
         "name": "Ortofrutta Simion Pierina",
         "opening_hours": "08:30-19:30",
         "phone": "041 680498",
-        "shop": "greengrocer"
+        "shop": "greengrocer",
+        "website": "https://www.spesaonlinelocale.it/negozio/ortofrutta-simion-pierina"
       },
       "geometry": {
         "type": "Point",
@@ -2518,7 +2543,7 @@
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "name": "Zoo Center",
-        "opening_hours": "Tu-Sa 9.00-12.30, 16.00-19.30",
+        "opening_hours": "Tu-Sa 09:00-12:30,16:00-19:30",
         "phone": "041 977987",
         "shop": "pet",
         "website": "http://www.zoocentermestre.com/"
@@ -4348,6 +4373,7 @@
         "addr:street": "Fondamenta Trapolin",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "direzione@bailosupermercati.com",
         "facebook": "https://www.facebook.com/bailosupermercati/",
         "name": "Bailo Supermercati",
         "opening_hours": "08:00-22:00",
@@ -4807,7 +4833,7 @@
         "addr:city": "Venezia",
         "addr:housenumber": "2259/A",
         "addr:postcode": "30135",
-        "addr:street": "calle regina",
+        "amenity": "restaurant",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "info@reginasconta.it",
@@ -5218,15 +5244,14 @@
         "addr:city": "Venezia",
         "addr:housenumber": "3117/a",
         "addr:street": "dorsoduro",
+        "contact:facebook": "dipolvenezia",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
-        "facebook": "https://www.facebook.com/dipolvenezia/",
-        "gmail": "dipolferramenta@gmail.com",
+        "email": "dipolferramenta@gmail.com",
         "name": "Di Pol Centrocasa",
         "opening_hours": "08:30 - 13:00, 15:00 - 18:30",
         "phone": "0415232675",
-        "shop": "hardware",
-        "sito web": "null"
+        "shop": "hardware"
       },
       "geometry": {
         "type": "Point",
@@ -5286,6 +5311,247 @@
         ]
       },
       "id": "node/7444546162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7444817734",
+        "addr:city": "Martellago",
+        "addr:housenumber": "2",
+        "addr:postcode": "30030",
+        "addr:street": "Piazza Donatori Di Sangue",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "pizzeriaolmoc@gmail.com",
+        "facebook": "https://www.facebook.com/charliespizzaolmo/",
+        "name": "Charlie's Pizza",
+        "opening_hours": "Mo-Fr 17:30-21:30 , Sat-Sun 17:30-22",
+        "phone": "041 906188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1880603,
+          45.5166573
+        ]
+      },
+      "id": "node/7444817734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7445155547",
+        "addr:city": "Marghera",
+        "addr:housenumber": "155",
+        "addr:postcode": "30175",
+        "addr:street": "Via Trieste",
+        "amenity": "bicycle_repair_station",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@bikeproject.it",
+        "facebook": "https://www.facebook.com/BKP80",
+        "name": "Bike Project Di Sandro Volpato",
+        "opening_hours": "8:30-12:30; 15:00-19:00",
+        "phone": "+39 320 071 6320;+39 041 935738",
+        "website": "http://www.bikeproject.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2102418,
+          45.4768919
+        ]
+      },
+      "id": "node/7445155547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7446661797",
+        "addr:city": "Marghera",
+        "addr:housenumber": "2",
+        "addr:postcode": "30175",
+        "addr:street": "Via dell'Avena",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@bottan.it",
+        "facebook": "https://www.facebook.com/BottanCarloCSrl/",
+        "name": "Bottan Carlo & C. srl",
+        "opening_hours": "Mo-Sa 08:00-12:00, 14:00-18:00 Su off",
+        "phone": "041931710.  0415381433",
+        "shop": "car_repair",
+        "website": "https://www.bottan.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2162951,
+          45.4617222
+        ]
+      },
+      "id": "node/7446661797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7446864191",
+        "addr:city": "Venezia",
+        "addr:housenumber": "20",
+        "addr:postcode": "30175",
+        "addr:street": "Via della Libertà",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "giosue.codato@gmail.com",
+        "name": "Autofficina Giosue' Codato",
+        "opening_hours": "Mo-Sa 8:30-12:30, 14:30-19:00, Su closed",
+        "phone": "0415317924;3338183601",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2744711,
+          45.46656
+        ]
+      },
+      "id": "node/7446864191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7448273137",
+        "addr:city": "Salgareda",
+        "addr:housenumber": "21",
+        "addr:postcode": "31040",
+        "addr:street": "Via Correr",
+        "delivery:covid19": "Only friday",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "vignecorrer.ssa@gmail.com",
+        "facebook": "https://www.facebook.com/Vigne-Correr-220487664957215/",
+        "guest_house": "bed_and_breakfast",
+        "name": "Vigne Correr S.s.a. Di Cescon Gianni",
+        "opening_hours": "24/7",
+        "phone": "3465328259;3491759414",
+        "tourism": "guest_house",
+        "website": "agriturismovignecorrer.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.477335,
+          45.7040797
+        ]
+      },
+      "id": "node/7448273137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7448316167",
+        "addr:city": "Oriago",
+        "addr:housenumber": "63",
+        "addr:postcode": "30030",
+        "addr:street": "Riviera San Pietro",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "almolinofioreria@gmail.com",
+        "facebook": "https://it-it.facebook.com/fioreriaalmolino",
+        "name": "Fioreria al Molino",
+        "opening_hours": "Mo-Tu 08:00-12.30 and 15.00-19.30 Wd 08:00-12.30 Th-St  08:00-12.30 and  5.00-19.30 Su  08:00-12.30",
+        "payment:cash": "yes",
+        "phone": "041 429413;339 6953122",
+        "shop": "florist",
+        "website": "https://www.fioreriaalmolino.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1666962,
+          45.4487488
+        ]
+      },
+      "id": "node/7448316167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7448818646",
+        "addr:city": "Mestre",
+        "addr:housenumber": "24",
+        "addr:postcode": "30171",
+        "addr:street": "Via Giustizia",
+        "delivery:covid19": "no",
+        "delivery:description:it": "\"Attivazione servizio a domicilio di generi di prima necessità per COVID-19\"",
+        "email": "info@volpialessandro.com",
+        "facebook": "http://www.facebook.com/volpiserramenti",
+        "name": "Serramenti & Tende Da Sole Volpi Alessandro",
+        "opening_hours": "Mo-Fr 09:00-12:30,15:30-19:00",
+        "phone": "0415440289",
+        "shop": "window_blind",
+        "website": "https://www.volpialessandro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2215387,
+          45.4855448
+        ]
+      },
+      "id": "node/7448818646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7448831758",
+        "addr:city": "Mestre",
+        "addr:housenumber": "47",
+        "addr:postcode": "30171",
+        "addr:street": "Via Giustizia",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@photomarket.it",
+        "facebook": "https://www.facebook.com/photomarketvideo",
+        "name": "Photo market",
+        "opening_hours": "Tu-Sa 9.00-12.30; 15.30-19.30",
+        "phone": "041915444",
+        "shop": "photo",
+        "website": "http://www.photomarket.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2210168,
+          45.4854181
+        ]
+      },
+      "id": "node/7448831758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7448994560",
+        "addr:city": "Venezia",
+        "addr:housenumber": "84/A",
+        "addr:postcode": "30126",
+        "addr:street": "Via Malamocco",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@tisoalfredo.it",
+        "facebook": "https://www.facebook.com/tisostore",
+        "name": "Tiso Store",
+        "phone": "041770640",
+        "website": "https://www.tisostore.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3421874,
+          45.3782542
+        ]
+      },
+      "id": "node/7448994560"
     }
   ]
 }

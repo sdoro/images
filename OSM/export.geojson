@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-28T19:39:02Z",
+  "timestamp": "2020-04-30T08:25:03Z",
   "features": [
     {
       "type": "Feature",
@@ -176,13 +176,13 @@
         "addr:street": "Via San Donà",
         "addr:unit": "C",
         "amenity": "restaurant",
+        "contact:phone": "+39 041 5342820",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "info@pizzeriadamichele.it",
         "facebook": "Pizzeria da Michele",
         "name": "Pizzeria da Michele",
-        "phone": "+39 041612570",
-        "phone2": "0415342820",
+        "phone": "+39 041 612570",
         "website": "http://www.pizzeriadamichele.it/"
       },
       "geometry": {
@@ -665,13 +665,13 @@
         "addr:postcode": "30172",
         "addr:street": "Via Mestrina",
         "contact:facebook": "https://www.facebook.com/autofficinamestre/",
-        "contact:phone": "3286335531",
+        "contact:mobile": "+39 328 6335531",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "autofficinavettori1977@gmail.com",
         "name": "Autofficina Meccatronica Vettori",
         "opening_hours": "Mo-Sa 08:00-12:30 14:30-18:00",
-        "phone": "041961811",
+        "phone": "+39 041 961811",
         "shop": "car_repair",
         "website": "http://www.autofficinamestre.com/"
       },
@@ -1852,6 +1852,29 @@
         ]
       },
       "id": "node/5936965086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6124154851",
+        "addr:city": "Venezia",
+        "addr:housenumber": "6/d",
+        "addr:postcode": "300173",
+        "addr:street": "Via Ca' Rossa",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "name": "Pasticceria Tortato",
+        "phone": "041 534 4277",
+        "shop": "pastry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2491577,
+          45.496799
+        ]
+      },
+      "id": "node/6124154851"
     },
     {
       "type": "Feature",
@@ -5310,7 +5333,8 @@
         "facebook": "https://www.facebook.com/osteriadapampo/",
         "name": "Osteria da Pampo",
         "opening_hours": "Mo-Su 12:00-14:30     Mo-Su 18:30-22:00",
-        "phone": "0415208419"
+        "phone": "0415208419",
+        "website": "https://www.osteriadapampo.com"
       },
       "geometry": {
         "type": "Point",
@@ -5330,14 +5354,14 @@
         "addr:postcode": "30031",
         "addr:street": "Via I Maggio",
         "addr:unit": "1",
+        "contact:phone": "+39 041 5134993",
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "info@horecabrenta.it",
         "facebook": "https://www.facebook.com/horecabrenta/",
         "name": "Horeca Brenta",
         "opening_hours": "giovedì 08:30–12:30 14–18:30; venerdì 08:30–12:30 14–18:30  sabato (Anniversario della liberazione d'Italia) 08:30–12:30 L'orario può variare",
-        "phone": "041 510 2386",
-        "phone2": "0415134993",
+        "phone": "+39 041 510 2386",
         "shop": "supermarket",
         "site_name": "http://www.horecabrenta.it/"
       },
@@ -6114,6 +6138,216 @@
         ]
       },
       "id": "node/7460219413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7460588227",
+        "addr:city": "Marghera",
+        "addr:housenumber": "2/A",
+        "addr:postcode": "30175",
+        "addr:street": "Via Pietro Paleocapa",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "Emriparazionimarghera@gmail.com",
+        "facebbok": "https://it-it.facebook.com/riparazioni.smartphone.marghera/",
+        "name": "EM Riparazioni",
+        "phone": "347 974 8718",
+        "shop": "telecommunication",
+        "website": "https://emriparazionimarghera.jimdofree.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2208393,
+          45.4769397
+        ]
+      },
+      "id": "node/7460588227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7462538900",
+        "addr:city": "Zero Branco",
+        "addr:housenumber": "74",
+        "addr:postcode": "31059",
+        "addr:street": "Via Bettin",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "floricolturapizziolo@gmail.com",
+        "name": "Pizziolo Guido",
+        "opening_hours": "lun.-sab. 9.30-12.00/15.00-19.00        dom. chiuso",
+        "opening_hours:covid19": "open",
+        "payment:online_payment": "yes",
+        "shop": "florist",
+        "telephone": "042297335",
+        "website": "https://www.spirulinaitalianaturale.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1412278,
+          45.6136507
+        ]
+      },
+      "id": "node/7462538900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7463193080",
+        "addr:city": "Venezia",
+        "addr:housenumber": "1860",
+        "addr:postcode": "30121",
+        "addr:street": "Calle de l’Aseo, Cannaregio",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "info@pc-click.it",
+        "name": "Pc-Click Venezia",
+        "phone": "0415241624",
+        "shop": "computer",
+        "website": "http://www.pc-click.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3296087,
+          45.4447356
+        ]
+      },
+      "id": "node/7463193080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7463848886",
+        "addr:city": "Dolo",
+        "addr:housenumber": "1",
+        "addr:street": "Via dei Frati",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "alberto.novello@gmx.com",
+        "facebook": "https://www.facebook.com/osteriadelfrate/",
+        "name": "Osteria Del Frate Dalla Manica Larga",
+        "opening_hours": "Mo-Su 12:00-14:00 19:30-21:30",
+        "phone": "3407569082;3518529292",
+        "website": "https://www.osteriadelfrate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0815477,
+          45.4155905
+        ]
+      },
+      "id": "node/7463848886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7464079069",
+        "addr:city": "Marcon",
+        "addr:housenumber": "29",
+        "addr:postcode": "30020",
+        "addr:street": "Via Porta Est",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "cantinaimbuto@gmail.com",
+        "facebook": "https://m.facebook.com/cantinaimbuto/",
+        "name": "Cantina All'imbuto",
+        "opening_hours": "Mo-Sa 15:30-19:30 Tu-Sa 8:30-12:30",
+        "phone": "+39 349 743 6406",
+        "shop": "wine",
+        "website": "https://cantina-allimbuto.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3130391,
+          45.547434
+        ]
+      },
+      "id": "node/7464079069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7464676095",
+        "addr:city": "Villorba",
+        "addr:housenumber": "7/II",
+        "addr:postcode": "31202",
+        "addr:street": "Via Solferino",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "ecchecavolo.villorba@gmail.com",
+        "facebook": "https://www.facebook.com/ecchecavoloortofrutta/",
+        "name": "Ecchecavolo SNC",
+        "opening_hours": "Mo-Sa 08:30-13:00, 15:30-19:30; Sa off",
+        "phone": "3451497161",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2565602,
+          45.7115548
+        ]
+      },
+      "id": "node/7464676095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7464947392",
+        "addr:city": "Robegano",
+        "addr:housenumber": "76",
+        "addr:postcode": "30030",
+        "addr:street": "Via 25 Aprile",
+        "amenity": "restaurant",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "antichisaporirobegano@hotmail.it",
+        "facebook": "https://it-it.facebook.com/pages/category/Deli/Gastronomia-Antichi-Sapori-581325048926953/",
+        "name": "Gastronomia Antichi Sapori",
+        "phone": "041482960",
+        "website": "https://www.antichisaporirobegano.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1256954,
+          45.5411024
+        ]
+      },
+      "id": "node/7464947392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7466018576",
+        "addr:city": "Venezia",
+        "addr:housenumber": "4661",
+        "addr:postcode": "30121",
+        "addr:street": "Fondamenta De Cannaregio",
+        "delivery:covid19": "yes",
+        "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
+        "email": "elrigheo@live.it",
+        "facebook": "https://www.facebook.com/elrigheo.cartoleriagiocattoli/?ref=br_rs",
+        "name": "El Righeo Sas",
+        "phone": "041 522 3120;3429198772;3471570505",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3206006,
+          45.4459821
+        ]
+      },
+      "id": "node/7466018576"
     }
   ]
 }

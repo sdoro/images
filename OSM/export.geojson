@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-04-30T08:25:03Z",
+  "timestamp": "2020-05-03T14:45:02Z",
   "features": [
     {
       "type": "Feature",
@@ -6150,7 +6150,7 @@
         "delivery:covid19": "yes",
         "delivery:description:it": "Attivazione servizio a domicilio di generi di prima necessità per COVID-19",
         "email": "Emriparazionimarghera@gmail.com",
-        "facebbok": "https://it-it.facebook.com/riparazioni.smartphone.marghera/",
+        "facebook": "https://www.facebook.com/riparazioni.smartphone.marghera/",
         "name": "EM Riparazioni",
         "phone": "347 974 8718",
         "shop": "telecommunication",

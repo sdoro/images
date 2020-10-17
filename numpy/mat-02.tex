@@ -4,8 +4,8 @@
 
 
 \begin{tikzpicture}
-\def\xs{1} %shift in x direction
-\def\ys{1.2} %shift in y direction
+\def\xs{2} %shift in x direction
+\def\ys{2} %shift in y direction
 \def\nm{2} % number of 2d matrices in the 3d matrix
 
 
@@ -16,7 +16,9 @@
 at(-1* \xs, -1 * \ys) %shift the matrix
 {
     \node {(``MMM'')}; \& \node {(``ABBV'')};\\
+	\node[font=\tiny] {[0,0,0]}; \& \node[font=\tiny] {[0,0,1]};\\
     \node {(``ABT'')}; \& \node {(``ACN'')};\\
+	\node[font=\tiny] {([0,1,0]}; \& \node[font=\tiny] {[0,1,1]};\\
 };
 
 \matrix [draw, % for the rectangle border
@@ -26,7 +28,9 @@ at(-1* \xs, -1 * \ys) %shift the matrix
 at(-2* \xs, -2 * \ys) %shift the matrix
 {
     \node {(``ACE'')}; \& \node {(``ADOBE'')};\\
+	\node[font=\tiny] {[1,0,0]}; \& \node[font=\tiny] {[1,0,1]};\\
     \node {(``ATVI'')}; \& \node {(``ADT'')};\\
+	\node[font=\tiny] {[1,1,0]}; \& \node[font=\tiny] {[1,1,1]};\\
 };
 \draw [dashed,gray](mm1.north west) -- (mm\nm.north west);
 \draw [dashed,gray](mm1.north east) -- (mm\nm.north east);
